@@ -1,0 +1,41 @@
+{
+  "updated": "2026-10-10T16:13:09.227254-04:00",
+  "events": {
+    "bf4b27e6cfad38d4645d9938@montreal-poetry-calendar": {
+      "source_id": "4414",
+      "title": "Invisible Books Fall Launch",
+      "start": "2026-10-16T18:00:00-04:00",
+      "end": "2026-10-16T20:00:00-04:00",
+      "venue": "6pm-8pm @ Drawn & Quarterly",
+      "description": "6pm-8pm @ Drawn & Quarterly\n\nHosted by co-publisher Norm Nehmetallah, featuring:\n\nMichael Rancic (A Nation of Tinkerers: A History of Electronic Music in Canada from 1945 to 1985) Emilie Moorhouse (Floating Islands) Claire Foster & Valérie Manteau (The Furrow) Andrew Forbes (The Utility of Boredom: 10th Anniversary Edition) Jen Calleja (Fair: The Life–Art of Translation) Nathan Brown & Michael Nardone (DOCUMENTS series editors, The Book: 123 Definitions)\n\nFree, first come first seated.",
+      "url": "https://wherepoetsread.ca/invisible-books-fall-launch/",
+      "info_url": "https://wherepoetsread.ca/invisible-books-fall-launch/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "ad460398f215bfd0c6a2248f@montreal-poetry-calendar": {
+      "source_id": "4411",
+      "title": "Leigh Kotsilidis Book Launch",
+      "start": "2026-10-17T19:00:00-04:00",
+      "end": "2026-10-17T21:00:00-04:00",
+      "venue": "",
+      "description": "MONTREAL POETRY BOOK LAUNCH ‘Some of Us May Live’ by Leigh Kotsilidis Readings by: LEIGH KOTSILIDIS DEANNA RADFORD (word-sound performance) & YUSUF SAADI\n\nOctober 17th, 7pm @rocketscienceroom FREE",
+      "url": "https://wherepoetsread.ca/leigh-kotsilidis-book-launch/",
+      "info_url": "https://www.instagram.com/rocketscienceroom/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f0e26559c08140ee242218cd@montreal-poetry-calendar": {
+      "source_id": "4408",
+      "title": "Metatron x Metonymy Press | Fundraiser, Readings, Dance Party",
+      "start": "2026-10-18T15:00:00-04:00",
+      "end": "2026-10-18T17:00:00-04:00",
+      "venue": "Le Système",
+      "description": "@ Le Système\n\nTickets & more info here !",
+      "url": "https://wherepoetsread.ca/metatron-x-metonymy-press-fundraiser-readings-dance-party/",
+      "info_url": "https://www.eventbrite.ca/e/metatron-x-metonymy-press-fundraiser-reading-dance-party-tickets-2001274264197",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    }
+  }
+}
