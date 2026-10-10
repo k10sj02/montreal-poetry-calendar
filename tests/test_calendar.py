@@ -4,7 +4,7 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
-from montreal_poetry_calendar import build_calendar, merge_state, parse_posts
+from montreal_poetry_calendar import build_calendar, merge_state, parse_jays_list, parse_posts
 
 NOW = datetime(2026, 10, 10, 12, tzinfo=ZoneInfo("America/Toronto"))
 POSTS = [{
@@ -31,3 +31,16 @@ def test_stable_ics(tmp_path: Path):
     item = next(component for component in calendar.walk() if component.name == "VEVENT")
     assert str(item["UID"]) == event.uid
     assert str(item["SUMMARY"]) == "Poetry Reading"
+
+
+def test_parse_jays_list():
+    post = {
+        "id": 7,
+        "post_date": "2026-10-01T12:00:00Z",
+        "canonical_url": "https://example.test/jays-list",
+        "body_html": """<h4>17 OCTOBER (SAT)</h4><p><strong>LEIGH KOTSILIDIS: </strong><em><strong>SOME OF US MAY LIVE</strong></em><strong> LAUNCH<br>What:</strong> Poetry launch.<br><strong>Where:</strong> Rocket Science Room.<br><strong>When:</strong> 7pm.<br><a href='https://example.test/event'>Event link</a></p>""",
+    }
+    event = parse_jays_list(post, NOW)[0]
+    assert event.title == "LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH"
+    assert event.start == "2026-10-17T19:00:00-04:00"
+    assert event.venue == "Rocket Science Room."

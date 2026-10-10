@@ -1,18 +1,111 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Montréal Poetry Calendar//EN
+PRODID:-//Montréal Poetry & Literary Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Montréal Poetry
+X-WR-CALNAME:Montréal Poetry & Literature
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+SUMMARY:PARQUETTE VARIETY
+DTSTART;TZID="UTC-04:00":20261010T190000
+DTEND;TZID="UTC-04:00":20261010T210000
+DTSTAMP:20261010T220732Z
+UID:9afcc9df2a45ca82250f4c7d@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:PARQUETTE VARIETY What : Beloved rave spot and ice cream sandw
+ ich hookup Parquette closes its doors at the end of the month\, but there
+ ’ll be a variety of shows in the meantime\, including this mixed media g
+ ig featuring poetic-musical improv work from Toronto’s Fan Wu and Adrian
+  Roussouw. Where: Parquette (1345 Rue de Bellechasse). When: 7pm. Who: Mik
+ ee\, Fan Wu\, Adrian Russouw\, and Nicholas Bellefleur. How much: $20 ( Li
+ nk )\n\nListing: https://www.discordiareview.com/p/jays-list-october-2026
+ \nMore information: https://www.instagram.com/p/DdsDnTavFuY/
+LOCATION:Parquette (1345 Rue de Bellechasse).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/DdsDnTavFuY/
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture - Le chant d'Achille par Madeline Miller
+DTSTART;TZID="UTC-04:00":20261014T183000
+DTEND;TZID="UTC-04:00":20261014T203000
+DTSTAMP:20261010T220732Z
+UID:e268f3084653a504dcb397b0@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/club-de-lecture-
+ le-chant-d-achille-par-madeline-miller\nMore information: https://lepointd
+ evente.com/billets/gsw261014001
+LOCATION:Pointe-à-Callière
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/gsw261014001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Performances de SLAM - demi-finales
+DTSTART;TZID="UTC-04:00":20261014T193000
+DTEND;TZID="UTC-04:00":20261014T213000
+DTSTAMP:20261010T220732Z
+UID:826e3c9fdcfdf2a2f8acc96d@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/performances-de-
+ slam-demi-finales\nMore information: https://lepointdevente.com/billets/pe
+ rformances-de-slam
+LOCATION:Maison de la culture Ahuntsic
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/performances-de-slam
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHAHRZAD ARSADI & ANNA CHATTERTON: CHILDREN OF FIRE LAUNCH
+DTSTART;TZID="UTC-04:00":20261015T190000
+DTEND;TZID="UTC-04:00":20261015T210000
+DTSTAMP:20261010T220732Z
+UID:4e554fd33c462e491d5e5b08@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:SHAHRZAD ARSADI & ANNA CHATTERTON: CHILDREN OF FIRE LAUNCH Wha
+ t : A multidisciplinary book based on the authors’ experiences among fem
+ ale Kurdish militants in the Qandil mountains of Iraq. Where: Librairie Pu
+ lp Books & Cafe. When: 7 to 9pm. Who: Shahrzad Arsadi and Anna Chatterton 
+ in conversation with Emma Haraké\, with a performance by Srwa Hassani. Ho
+ w much: Free. ( Link )\n\nListing: https://www.discordiareview.com/p/jays-
+ list-october-2026\nMore information: https://pulpbooks.ca/events/640472026
+ 1015
+LOCATION:Librairie Pulp Books & Cafe.
+STATUS:CONFIRMED
+URL:https://pulpbooks.ca/events/6404720261015
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:INVISIBLE BOOKS FALL 2026 PARTY
+DTSTART;TZID="UTC-04:00":20261016T180000
+DTEND;TZID="UTC-04:00":20261016T200000
+DTSTAMP:20261010T220732Z
+UID:740fddbe82a2fd0ca129918f@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:INVISIBLE BOOKS FALL 2026 PARTY What : The Invisible Books fol
+ ks have been spending a fair amount of time in Montreal of late\, and they
+  return once again with readings from each of their Fall 2026 titles. Wher
+ e: Librarie Drawn & Quarterly (176 rue Bernard O). When: 6 to 8pm. Who: Na
+ than Brown\, Jen Calleja\, Andrew Forbes\, Claire Foster\, Valérie Mantea
+ u\, Emilie Moorhouse\, Michael “Hardbone” Nardone\, and Michael Rancic
+ . How much: Free. ( Link )\n\nListing: https://www.discordiareview.com/p/j
+ ays-list-october-2026\nMore information: https://www.instagram.com/p/DdjI5
+ B4hWxn/
+LOCATION:Librarie Drawn & Quarterly (176 rue Bernard O).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/DdjI5B4hWxn/
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invisible Books Fall Launch
 DTSTART;TZID="UTC-04:00":20261016T180000
 DTEND;TZID="UTC-04:00":20261016T200000
-DTSTAMP:20261010T201338Z
+DTSTAMP:20261010T220732Z
 UID:bf4b27e6cfad38d4645d9938@montreal-poetry-calendar
-CATEGORIES:Poetry
+CATEGORIES:Poetry & Literature
 DESCRIPTION:6pm-8pm @ Drawn & Quarterly\n\nHosted by co-publisher Norm Neh
  metallah\, featuring:\n\nMichael Rancic (A Nation of Tinkerers: A History 
  of Electronic Music in Canada from 1945 to 1985) Emilie Moorhouse (Floatin
@@ -25,14 +118,54 @@ DESCRIPTION:6pm-8pm @ Drawn & Quarterly\n\nHosted by co-publisher Norm Neh
 LOCATION:6pm-8pm @ Drawn & Quarterly
 STATUS:CONFIRMED
 URL:https://wherepoetsread.ca/invisible-books-fall-launch/
+X-MONTREAL-LITERARY-SOURCE:wherepoetsread
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOK TALK: DEPRESSION COOKING
+DTSTART;TZID="UTC-04:00":20261017T160000
+DTEND;TZID="UTC-04:00":20261017T180000
+DTSTAMP:20261010T220732Z
+UID:fd11c972c7acb3e794a7a5aa@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:BOOK TALK: DEPRESSION COOKING What: A chat with Sonali Menezes
+ \, author of the abovementioned book\, plus some readings from other local
+ s. Where: Argo (1841-A Rue Sainte-Catherine O). When: 4 to 6pm. Who: Sonal
+ i Menezes in conversation with Geneviève Wallen\, plus Lee Arden and Zoe 
+ Maeve Jenkins. How much: Free\, but RSVP recommended. ( Link )\n\nListing:
+  https://www.discordiareview.com/p/jays-list-october-2026\nMore informatio
+ n: https://www.argobookshop.ca/events/51753
+LOCATION:Argo (1841-A Rue Sainte-Catherine O).
+STATUS:CONFIRMED
+URL:https://www.argobookshop.ca/events/51753
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH
+DTSTART;TZID="UTC-04:00":20261017T190000
+DTEND;TZID="UTC-04:00":20261017T210000
+DTSTAMP:20261010T220732Z
+UID:885f69ba8ba0ecf952a3e659@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH What: The Rocket 
+ Science Room proprietress launches her latest poetry collection with Coach
+  House at… Rocket Science Room! Two other performers will also be launch
+ ed into low orbit alongside her. Where: Rocket Science Room (204-170 Jean 
+ Talon O [Atlas Building]). When: 7pm. Who: Leigh Kotsilidis\, Deanna Radfo
+ rd\, and Yusuf Saadi. How Much: Free. ( Event link )\n\nListing: https://w
+ ww.discordiareview.com/p/jays-list-october-2026\nMore information: https:/
+ /www.instagram.com/p/Ddtv42oDi5c/
+LOCATION:Rocket Science Room (204-170 Jean Talon O [Atlas Building]).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/Ddtv42oDi5c/
+X-MONTREAL-LITERARY-SOURCE:jays-list
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leigh Kotsilidis Book Launch
 DTSTART;TZID="UTC-04:00":20261017T190000
 DTEND;TZID="UTC-04:00":20261017T210000
-DTSTAMP:20261010T201338Z
+DTSTAMP:20261010T220732Z
 UID:ad460398f215bfd0c6a2248f@montreal-poetry-calendar
-CATEGORIES:Poetry
+CATEGORIES:Poetry & Literature
 DESCRIPTION:MONTREAL POETRY BOOK LAUNCH ‘Some of Us May Live’ by Leigh
   Kotsilidis Readings by: LEIGH KOTSILIDIS DEANNA RADFORD (word-sound perfo
  rmance) & YUSUF SAADI\n\nOctober 17th\, 7pm @rocketscienceroom FREE\n\nLis
@@ -40,14 +173,15 @@ DESCRIPTION:MONTREAL POETRY BOOK LAUNCH ‘Some of Us May Live’ by Leigh
  ation: https://www.instagram.com/rocketscienceroom/
 STATUS:CONFIRMED
 URL:https://www.instagram.com/rocketscienceroom/
+X-MONTREAL-LITERARY-SOURCE:wherepoetsread
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Metatron x Metonymy Press | Fundraiser\, Readings\, Dance Party
 DTSTART;TZID="UTC-04:00":20261018T150000
 DTEND;TZID="UTC-04:00":20261018T170000
-DTSTAMP:20261010T201338Z
+DTSTAMP:20261010T220732Z
 UID:f0e26559c08140ee242218cd@montreal-poetry-calendar
-CATEGORIES:Poetry
+CATEGORIES:Poetry & Literature
 DESCRIPTION:@ Le Système\n\nTickets & more info here !\n\nListing: https:
  //wherepoetsread.ca/metatron-x-metonymy-press-fundraiser-readings-dance-pa
  rty/\nMore information: https://www.eventbrite.ca/e/metatron-x-metonymy-pr
@@ -56,5 +190,353 @@ LOCATION:Le Système
 STATUS:CONFIRMED
 URL:https://www.eventbrite.ca/e/metatron-x-metonymy-press-fundraiser-readi
  ng-dance-party-tickets-2001274264197
+X-MONTREAL-LITERARY-SOURCE:wherepoetsread
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACCENT OPEN MIC
+DTSTART;TZID="UTC-04:00":20261018T200000
+DTEND;TZID="UTC-04:00":20261018T220000
+DTSTAMP:20261010T220732Z
+UID:58a8beb5a91471de209144c0@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:ACCENT OPEN MIC What: Popular twice monthly bilingual open mic
+ —this episode’s theme TBD\, guests TBD. (Computer\, play that sickass 
+ chill Cisco hold music .) Where: Bar le Record (7622 rue Saint-Hubert). Wh
+ en: 8 to 10pm. Who: Whoever has the balls\, plus the yet to be mentioned. 
+ How Much: Free. (Link TK)\n\nListing: https://www.discordiareview.com/p/ja
+ ys-list-october-2026\nMore information: https://www.youtube.com/watch?v=nL
+ pm4aysr8I
+LOCATION:Bar le Record (7622 rue Saint-Hubert).
+STATUS:CONFIRMED
+URL:https://www.youtube.com/watch?v=nLpm4aysr8I
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rencontre littéraire - Mariana Mazza
+DTSTART;TZID="UTC-04:00":20261020T180000
+DTEND;TZID="UTC-04:00":20261020T200000
+DTSTAMP:20261010T220732Z
+UID:41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/rencontre-litter
+ aire-mariana-mazza\nMore information: https://lepointdevente.com/billets/m
+ ariana-mazza
+LOCATION:Salle Goncourt - bibliothèque Jean-Corbeil 7500 Av. Goncourt
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/mariana-mazza
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Des livres et des tasses
+DTSTART;TZID="UTC-04:00":20261021T173000
+DTEND;TZID="UTC-04:00":20261021T193000
+DTSTAMP:20261010T220732Z
+UID:e572a4ade09a7702028ef2c9@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/des-livres-et-de
+ s-tasses-2026-10-21\nMore information: https://lepointdevente.com/billets/
+ p8u260916002
+LOCATION:Bibliothèque Maisonneuve
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/p8u260916002
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WOMEN ON THE RUN: GAIL SCOTT’S HEROINE
+DTSTART;TZID="UTC-04:00":20261022T190000
+DTEND;TZID="UTC-04:00":20261022T210000
+DTSTAMP:20261010T220732Z
+UID:47f08d7806f8b33eb90b717f@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:WOMEN ON THE RUN: GAIL SCOTT’S HEROINE What: Women on the Ru
+ n Book Club welcomes venerable feminist writer Gail Scott to the shop for 
+ a discussion of her 1987 debut\, Heroine . A lot of LSHB events seem to in
+ volve wine\, not sure if here\, but you can always pack a flask. [Note: Th
+ is one was on the list for last month\, so maybe I fucked that up\, or may
+ be it moved. But it’s here now\, and sold out anyway.] Where: Librairie 
+ St-Henri Bookstore (4622 rue Notre-Dame Ouest). When: 7pm. Who: You\, Gail
+ \, a flask of Wallaroo Trail… How Much: Free\, but you’ll want to RSVP
+ . ( Link ) SOLD OUT!\n\nListing: https://www.discordiareview.com/p/jays-li
+ st-october-2026\nMore information: https://www.instagram.com/p/DcbUpVZEZuA
+ /
+LOCATION:Librairie St-Henri Bookstore (4622 rue Notre-Dame Ouest).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/DcbUpVZEZuA/
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOIRE DES LIVRES DE GAUCHE
+DTSTART;TZID="UTC-04:00":20261024T120000
+DTEND;TZID="UTC-04:00":20261024T140000
+DTSTAMP:20261010T220732Z
+UID:2f0895a591cda399861f8daa@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:FOIRE DES LIVRES DE GAUCHE What: A mostly French mini left win
+ g book fair\, but I see a few anglo mags so on the list it goes. Where: Le
+  Courtepointe (220 rue Villeray). When: 12 to 5pm. Who: Various vendors. H
+ ow Much: Free. ( Link )\n\nListing: https://www.discordiareview.com/p/jays
+ -list-october-2026\nMore information: https://www.instagram.com/p/Ddt2HvLD
+ xlR/
+LOCATION:Le Courtepointe (220 rue Villeray).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/Ddt2HvLDxlR/
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOKMATCH
+DTSTART;TZID="UTC-04:00":20261026T190000
+DTEND;TZID="UTC-04:00":20261026T210000
+DTSTAMP:20261010T220732Z
+UID:ee1d77ee0466d82e554009d3@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:BOOKMATCH What: Get half-cut at LSH—your $45 gets you a glas
+ s of prosecco\, two glasses of wine\, a $5 LSH giftcard and some time with
+  a staffer\, who will try to “set you up” with a book you’ll like. P
+ ersonally I like to imagine you get all three glasses at once and everyone
+  is walking around the store with their hands full. Also it’s presumably
+  spooky. Where: Librairie St-Henri Bookstore (4622 rue Notre-Dame Ouest). 
+ When: 7pm. Who: Whoever has $45. How Much: $45. ( Link )\n\nListing: https
+ ://www.discordiareview.com/p/jays-list-october-2026\nMore information: htt
+ ps://www.eventbrite.ca/e/bookmatch-lshb-halloween-edition-tickets-20026272
+ 03876
+LOCATION:Librairie St-Henri Bookstore (4622 rue Notre-Dame Ouest).
+STATUS:CONFIRMED
+URL:https://www.eventbrite.ca/e/bookmatch-lshb-halloween-edition-tickets-2
+ 002627203876
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lancement de Recueil - La Steppe
+DTSTART;TZID="UTC-04:00":20261026T200000
+DTEND;TZID="UTC-04:00":20261026T220000
+DTSTAMP:20261010T220732Z
+UID:8585e7667dbd1dc486785457@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Casa del Popolo listings. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/lancement-de-rec
+ ueil-la-steppe\nMore information: https://t.venuepilot.com/e/lancement-de-
+ recueil-la-steppe-2026-10-26-la-sala-rossa-montreal-cf5c86
+LOCATION:La Sala Rossa
+STATUS:CONFIRMED
+URL:https://t.venuepilot.com/e/lancement-de-recueil-la-steppe-2026-10-26-l
+ a-sala-rossa-montreal-cf5c86
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture
+DTSTART;TZID="UTC-04:00":20261027T183000
+DTEND;TZID="UTC-04:00":20261027T203000
+DTSTAMP:20261010T220732Z
+UID:08dfe10ba4ee9a15780107c1@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
+ (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing: https://montrea
+ l.hasthings.com/events/club-de-lecture\nMore information: https://lepointd
+ evente.com/billets/ut9260929001
+LOCATION:Centre Sanaaq
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/ut9260929001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lecture publique
+DTSTART;TZID="UTC-04:00":20261029T180000
+DTEND;TZID="UTC-04:00":20261029T200000
+DTSTAMP:20261010T220732Z
+UID:c43edfbf09598d1735cf8d9c@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
+ (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing: https://montrea
+ l.hasthings.com/events/lecture-publique\nMore information: https://lepoint
+ devente.com/billets/32o261029001
+LOCATION:JIM de L'Instable
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/32o261029001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET
+DTSTART;TZID="UTC-04:00":20261029T190000
+DTEND;TZID="UTC-04:00":20261029T210000
+DTSTAMP:20261010T220732Z
+UID:297d7dba72b52c0f529b8cd5@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET What: GG-winner 
+ Anand conversates with cartoonist Gabrielle Drolet. Where: Argo (1841-A Ru
+ e Sainte-Catherine O). When: 7 to 9pm. Who: I said already! How much: Free
+ \, but RSVP recommended. ( Link )\n\nListing: https://www.discordiareview.
+ com/p/jays-list-october-2026\nMore information: https://www.argobookshop.c
+ a/events/51755
+LOCATION:Argo (1841-A Rue Sainte-Catherine O).
+STATUS:CONFIRMED
+URL:https://www.argobookshop.ca/events/51755
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les auteurs Patrick Senécal et Hugo Meunier discutent de leurs m
+ échants préférés
+DTSTART;TZID="UTC-04:00":20261029T190000
+DTEND;TZID="UTC-04:00":20261029T210000
+DTSTAMP:20261010T220732Z
+UID:7331f7cc5c100334e5fa18dc@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
+ (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing: https://montrea
+ l.hasthings.com/events/les-auteurs-patrick-senecal-et-hugo-meunier-discute
+ nt-de-leurs-mechants-preferes\nMore information: https://lepointdevente.co
+ m/billets/5u1261007005
+LOCATION:Bibliothèque Le Prévost
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/5u1261007005
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH
+DTSTART;TZID="UTC-04:00":20261030T190000
+DTEND;TZID="UTC-04:00":20261030T210000
+DTSTAMP:20261010T220732Z
+UID:572d9780ca735d9209e22d96@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNC
+ H What : Even this blog is white. Crazy. Anyway\, a double launch featurin
+ g new novels from Shraya and Mutonji. Where: Librarie Drawn & Quarterly (1
+ 76 rue Bernard O). When: 7pm. Who: The aforementioned\, in conversation wi
+ th francesca ekwuyasi. How much: Free. ( Link )\n\nListing: https://www.di
+ scordiareview.com/p/jays-list-october-2026\nMore information: https://www.
+ instagram.com/p/DdtzXRPSQCe/
+LOCATION:Librarie Drawn & Quarterly (176 rue Bernard O).
+STATUS:CONFIRMED
+URL:https://www.instagram.com/p/DdtzXRPSQCe/
+X-MONTREAL-LITERARY-SOURCE:jays-list
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Grand Remix
+DTSTART;TZID="UTC-04:00":20261030T200000
+DTEND;TZID="UTC-04:00":20261030T220000
+DTSTAMP:20261010T220732Z
+UID:3296d5d090e8bee2e8319783@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Le Ministère\, Lepointdevente Montréal\, Lepointde
+ vente Montréal (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing:
+  https://montreal.hasthings.com/events/le-grand-remix\nMore information: h
+ ttps://lepointdevente.com/billets/mns261030001?lang=fr
+LOCATION:Le Ministère
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/mns261030001?lang=fr
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture de BD féministe
+DTSTART;TZID="UTC-05:00":20261103T180000
+DTEND;TZID="UTC-05:00":20261103T200000
+DTSTAMP:20261010T220732Z
+UID:3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/club
+ -de-lecture-de-bd-feministe-2026-10-06\nMore information: https://lepointd
+ evente.com/billets/8zy260908001
+LOCATION:Bibliothèque Henri-Bourassa
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/8zy260908001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Francos vs Anglos (20 ans de slam)
+DTSTART;TZID="UTC-05:00":20261105T203000
+DTEND;TZID="UTC-05:00":20261105T223000
+DTSTAMP:20261010T220732Z
+UID:a8ecdd3f512e46107e694593@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Casa del Popolo listings. Data: Has Things (hasthing
+ s.com).\n\nListing: https://montreal.hasthings.com/events/francos-vs-anglo
+ s-20-ans-de-slam\nMore information: https://www.venuepilot.co/en/events/17
+ 0363/orders/new
+LOCATION:Casa del Popolo
+STATUS:CONFIRMED
+URL:https://www.venuepilot.co/en/events/170363/orders/new
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Club de lecture
+DTSTART;TZID="UTC-05:00":20261106T133000
+DTEND;TZID="UTC-05:00":20261106T153000
+DTSTAMP:20261010T220732Z
+UID:4bab14928b9dd729c53cba08@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/club
+ -de-lecture-2026-10-02\nMore information: https://lepointdevente.com/bille
+ ts/ev3260904001
+LOCATION:Bibliothèque Saul-Bellow
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/ev3260904001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Écrire un texte littéraire
+DTSTART;TZID="UTC-05:00":20261107T101500
+DTEND;TZID="UTC-05:00":20261107T121500
+DTSTAMP:20261010T220732Z
+UID:11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/ecri
+ re-un-texte-litteraire\nMore information: https://lepointdevente.com/bille
+ ts/p8u261003001
+LOCATION:Bibliothèque Maisonneuve
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/p8u261003001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rencontre d'auteur avec Monique Proulx
+DTSTART;TZID="UTC-05:00":20261110T190000
+DTEND;TZID="UTC-05:00":20261110T210000
+DTSTAMP:20261010T220732Z
+UID:e73172c8eab026c9566f415a@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/renc
+ ontre-d-auteur-avec-monique-proulx\nMore information: https://lepointdeven
+ te.com/billets/5u1260909001
+LOCATION:Bibliothèque Le Prévost
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/5u1260909001
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finale gala du Grand Slam International de Montréal\, 3e édition
+DTSTART;TZID="UTC-05:00":20261115T200000
+DTEND;TZID="UTC-05:00":20261115T220000
+DTSTAMP:20261010T220732Z
+UID:3b5460ab0930156c8cf78c2f@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/fina
+ le-gala-du-grand-slam-international-de-montreal-3e-edition\nMore informati
+ on: https://lepointdevente.com/billets/clo260602002
+LOCATION:Cabaret Lion d'Or
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/clo260602002
+X-MONTREAL-LITERARY-SOURCE:has-things
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Des livres et des tasses
+DTSTART;TZID="UTC-05:00":20261118T173000
+DTEND;TZID="UTC-05:00":20261118T193000
+DTSTAMP:20261010T220732Z
+UID:519d167ec026e90b84b881c3@montreal-poetry-calendar
+CATEGORIES:Poetry & Literature
+DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
+ gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/des-
+ livres-et-des-tasses-2026-10-21\nMore information: https://lepointdevente.
+ com/billets/p8u260916002
+LOCATION:Bibliothèque Maisonneuve
+STATUS:CONFIRMED
+URL:https://lepointdevente.com/billets/p8u260916002
+X-MONTREAL-LITERARY-SOURCE:has-things
 END:VEVENT
 END:VCALENDAR
