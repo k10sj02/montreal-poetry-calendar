@@ -4,7 +4,17 @@ from zoneinfo import ZoneInfo
 
 from icalendar import Calendar
 
-from montreal_poetry_calendar import build_calendar, merge_state, parse_jays_list, parse_posts
+from montreal_poetry_calendar import build_calendar, fetch_librairie_resonance, merge_state, parse_jays_list, parse_posts
+
+
+class FakeResponse:
+    def __init__(self, text): self.text = text
+    def raise_for_status(self): pass
+
+
+class FakeClient:
+    def __init__(self, text): self.text = text
+    def get(self, url): return FakeResponse(self.text)
 
 NOW = datetime(2026, 10, 10, 12, tzinfo=ZoneInfo("America/Toronto"))
 POSTS = [{
@@ -31,6 +41,7 @@ def test_stable_ics(tmp_path: Path):
     item = next(component for component in calendar.walk() if component.name == "VEVENT")
     assert str(item["UID"]) == event.uid
     assert str(item["SUMMARY"]) == "Poetry Reading"
+    assert item.decoded("DTSTART").tzinfo.key == "America/Toronto"
 
 
 def test_parse_jays_list():
@@ -44,3 +55,12 @@ def test_parse_jays_list():
     assert event.title == "LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH"
     assert event.start == "2026-10-17T19:00:00-04:00"
     assert event.venue == "Rocket Science Room."
+
+
+def test_librairie_resonance_keeps_literary_events_only():
+    page = '''
+      <script type="application/ld+json">{"@type":"Event","name":"Rencontre avec une autrice","startDate":"2026-11-10T19:00","url":"https://librairieresonance.com/evenements/autrice","description":"Discussion autour de son livre.","location":{"name":"Librairie Résonance","address":{"streetAddress":"40 Beaubien East","addressLocality":"Montréal"}}}</script>
+      <script type="application/ld+json">{"@type":"Event","name":"Album listening party","startDate":"2026-11-11T19:00","url":"https://librairieresonance.com/evenements/album","description":"Listen to a record."}</script>'''
+    got = fetch_librairie_resonance(NOW, FakeClient(page))
+    assert [event.title for event in got] == ["Rencontre avec une autrice"]
+    assert got[0].source == "librairie-resonance"

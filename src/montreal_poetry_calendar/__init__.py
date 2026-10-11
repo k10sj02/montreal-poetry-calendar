@@ -21,6 +21,7 @@ CULT_API = "https://cultmtl.com/wp-json/wp/v2/event_listing"
 CULT_URL = "https://cultmtl.com/event_listing_category/literary/"
 HAS_THINGS_API = "https://montreal.hasthings.com/api/events"
 HAS_THINGS_URL = "https://montreal.hasthings.com/"
+RESONANCE_URL = "https://librairieresonance.com/en/pages/evenements"
 TIMEZONE = ZoneInfo("America/Toronto")
 USER_AGENT = "MontrealLiteraryCalendar/2.0 (+https://github.com/k10sj02/montreal-poetry-calendar)"
 SOURCE_URLS = {
@@ -28,6 +29,7 @@ SOURCE_URLS = {
     "jays-list": JAYS_URL,
     "cult-mtl": CULT_URL,
     "has-things": HAS_THINGS_URL,
+    "librairie-resonance": RESONANCE_URL,
 }
 MONTHS = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
@@ -232,6 +234,39 @@ def fetch_has_things(now: datetime, client: httpx.Client) -> list[PoetryEvent]:
     return events
 
 
+def fetch_librairie_resonance(now: datetime, client: httpx.Client) -> list[PoetryEvent]:
+    response = client.get(RESONANCE_URL)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    events: list[PoetryEvent] = []
+    for script in soup.select('script[type="application/ld+json"]'):
+        try:
+            item = json.loads(script.string or script.get_text())
+        except (TypeError, json.JSONDecodeError):
+            continue
+        if not isinstance(item, dict) or item.get("@type") != "Event" or not item.get("startDate"):
+            continue
+        description = _text(item.get("description", ""))
+        if not LITERARY_TERMS.search(f"{item.get('name', '')} {description}"):
+            continue
+        start = datetime.fromisoformat(item["startDate"]).replace(tzinfo=TIMEZONE)
+        if start < now - timedelta(days=1):
+            continue
+        location = item.get("location") or {}
+        address = location.get("address") or {}
+        venue_parts = [location.get("name", ""), address.get("streetAddress", ""), address.get("addressLocality", "")]
+        url = item.get("url") or RESONANCE_URL
+        events.append(PoetryEvent(
+            source_id=url.rstrip("/").rsplit("/", 1)[-1], title=_text(item.get("name", "Literary event")),
+            start=start.isoformat(), end=(start + timedelta(hours=2)).isoformat(),
+            venue=", ".join(part for part in venue_parts if part), description=description,
+            url=url, info_url=(item.get("offers") or {}).get("url") or url,
+            status="CANCELLED" if "Cancelled" in str(item.get("eventStatus")) else "CONFIRMED",
+            source="librairie-resonance",
+        ))
+    return events
+
+
 def _dedupe(events: list[PoetryEvent]) -> list[PoetryEvent]:
     def key(event: PoetryEvent) -> tuple[str, str]:
         title = unicodedata.normalize("NFKD", event.title.casefold())
@@ -251,6 +286,7 @@ def fetch_events(now: datetime) -> tuple[list[PoetryEvent], set[str], dict[str, 
         for name, fetcher in (
             ("wherepoetsread", fetch_where_poets_read), ("jays-list", fetch_jays_list),
             ("cult-mtl", fetch_cult_mtl), ("has-things", fetch_has_things),
+            ("librairie-resonance", fetch_librairie_resonance),
         ):
             try:
                 items = fetcher(now, client)
@@ -305,8 +341,8 @@ def build_calendar(events: list[PoetryEvent], generated: datetime) -> bytes:
         event = Event()
         event.add("uid", item.uid)
         event.add("dtstamp", generated)
-        event.add("dtstart", datetime.fromisoformat(item.start))
-        event.add("dtend", datetime.fromisoformat(item.end))
+        event.add("dtstart", datetime.fromisoformat(item.start).astimezone(TIMEZONE))
+        event.add("dtend", datetime.fromisoformat(item.end).astimezone(TIMEZONE))
         event.add("summary", item.title)
         if item.venue:
             event.add("location", item.venue)

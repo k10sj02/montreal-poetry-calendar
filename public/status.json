@@ -1,11 +1,12 @@
 {
-  "generated": "2026-10-10T18:08:07.625597-04:00",
-  "count": 30,
+  "generated": "2026-10-10T22:28:29.632281-04:00",
+  "count": 32,
   "cancelled": 0,
   "sources_ok": [
     "cult-mtl",
     "has-things",
     "jays-list",
+    "librairie-resonance",
     "wherepoetsread"
   ],
   "errors": {},
@@ -13,6 +14,7 @@
     "https://cultmtl.com/event_listing_category/literary/",
     "https://montreal.hasthings.com/",
     "https://www.discordiareview.com/",
+    "https://librairieresonance.com/en/pages/evenements",
     "https://wherepoetsread.ca/"
   ]
 }
