@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import time
 import unicodedata
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta
@@ -235,7 +236,18 @@ def fetch_has_things(now: datetime, client: httpx.Client) -> list[PoetryEvent]:
 
 
 def fetch_librairie_resonance(now: datetime, client: httpx.Client) -> list[PoetryEvent]:
-    response = client.get(RESONANCE_URL)
+    # Shopify occasionally returns a brief 429 to GitHub-hosted runners.
+    # Retry at a second locale URL so one transient response does not mark
+    # the whole source unavailable.
+    response = None
+    urls = (RESONANCE_URL, "https://librairieresonance.com/pages/evenements", RESONANCE_URL)
+    for attempt, url in enumerate(urls):
+        response = client.get(url)
+        if getattr(response, "status_code", 200) != 429:
+            break
+        if attempt < len(urls) - 1:
+            time.sleep(2 ** attempt)
+    assert response is not None
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
     events: list[PoetryEvent] = []
