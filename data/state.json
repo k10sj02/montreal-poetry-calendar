@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:08:44.593597-04:00",
+  "updated": "2026-10-12T20:58:50.977625-04:00",
   "events": {
     "e268f3084653a504dcb397b0@montreal-poetry-calendar": {
       "source_id": "50a14bc5-5b2d-4b3f-88fb-927fa72eb66b",
@@ -239,20 +239,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
-      "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
-      "title": "Lecture publique",
-      "start": "2026-10-29T18:00:00-04:00",
-      "end": "2026-10-29T20:00:00-04:00",
-      "venue": "JIM de L'Instable",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/lecture-publique",
-      "info_url": "https://lepointdevente.com/billets/32o261029001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
       "source_id": "e754311a95169526",
       "title": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET",
@@ -276,6 +262,20 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/les-auteurs-patrick-senecal-et-hugo-meunier-discutent-de-leurs-mechants-preferes",
       "info_url": "https://lepointdevente.com/billets/5u1261007005",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "c115b1f7a53a9a1acb69d72e@montreal-poetry-calendar": {
+      "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
+      "title": "Lecture publique",
+      "start": "2026-10-29T20:00:00-04:00",
+      "end": "2026-10-29T22:00:00-04:00",
+      "venue": "JIM de L'Instable",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/lecture-publique",
+      "info_url": "https://lepointdevente.com/billets/32o261029001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -406,6 +406,20 @@
       "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
+    },
+    "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
+      "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
+      "title": "Lecture publique",
+      "start": "2026-10-29T18:00:00-04:00",
+      "end": "2026-10-29T20:00:00-04:00",
+      "venue": "JIM de L'Instable",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/lecture-publique",
+      "info_url": "https://lepointdevente.com/billets/32o261029001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
     },
     "dcf796d7dd7e624eda4e65b8@montreal-poetry-calendar": {
       "source_id": "record-book-fair-ii-at-foil-gallery",
