@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:35:45.602833-04:00",
+  "updated": "2026-10-13T19:08:00.375226-04:00",
   "events": {
     "e268f3084653a504dcb397b0@montreal-poetry-calendar": {
       "source_id": "50a14bc5-5b2d-4b3f-88fb-927fa72eb66b",
@@ -461,7 +461,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     }
   }
 }
