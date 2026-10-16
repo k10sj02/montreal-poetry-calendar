@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-16T01:01:45.562918-04:00",
+  "generated": "2026-10-16T07:55:25.479991-04:00",
   "count": 32,
   "cancelled": 1,
   "sources_ok": [
     "cult-mtl",
     "has-things",
     "jays-list",
-    "librairie-resonance",
     "wherepoetsread"
   ],
-  "errors": {},
+  "errors": {
+    "librairie-resonance": "Client error '429 Too Many Requests' for url 'https://librairieresonance.com/en/pages/evenements'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429"
+  },
   "sources": [
     "https://cultmtl.com/event_listing_category/literary/",
     "https://montreal.hasthings.com/",
     "https://www.discordiareview.com/",
-    "https://librairieresonance.com/en/pages/evenements",
     "https://wherepoetsread.ca/"
   ]
 }

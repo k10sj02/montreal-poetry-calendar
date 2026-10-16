@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:01:45.562918-04:00",
+  "updated": "2026-10-16T07:55:25.479991-04:00",
   "events": {
     "4e554fd33c462e491d5e5b08@montreal-poetry-calendar": {
       "source_id": "a1e089631ccac081",
@@ -82,20 +82,6 @@
       "info_url": "https://www.instagram.com/rocketscienceroom/",
       "status": "CONFIRMED",
       "source": "wherepoetsread",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "dcf796d7dd7e624eda4e65b8@montreal-poetry-calendar": {
-      "source_id": "record-book-fair-ii-at-foil-gallery",
-      "title": "Record+Book Fair II at FOIL Gallery",
-      "start": "2026-10-18T09:00:00-04:00",
-      "end": "2026-10-18T11:00:00-04:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Browse books, magazines, and vinyl from a selection of independent vendors at Foil’s Book + Record Fair. Come dig for your next favourite find, with DJs setting the soundtrack throughout the day. \nFrom 9am to 5pm6560 Waverly St (sentier des Gorilles)\nDécouvrez des livres, des magazines et des vinyles proposés par une sélection de vendeurs indépendants lors de la « Foil’s Book + Record Fair ». Venez dénicher votre prochain coup de cœur au son de la musique mixée par des DJ tout au long de la journée.\nDe 9h à 17h6560 rue Waverly (sentier des Gorilles)",
-      "url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -357,7 +343,7 @@
       "start": "2026-11-06T13:30:00-05:00",
       "end": "2026-11-06T15:30:00-05:00",
       "venue": "Bibliothèque Saul-Bellow",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
       "status": "CONFIRMED",
@@ -376,20 +362,6 @@
       "info_url": "https://lepointdevente.com/billets/p8u261003001",
       "status": "CONFIRMED",
       "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
-      "source_id": "rencontre-avec-martine-delvaux",
-      "title": "Rencontre avec Martine Delvaux",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
-      "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -449,6 +421,34 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "dcf796d7dd7e624eda4e65b8@montreal-poetry-calendar": {
+      "source_id": "record-book-fair-ii-at-foil-gallery",
+      "title": "Record+Book Fair II at FOIL Gallery",
+      "start": "2026-10-18T09:00:00-04:00",
+      "end": "2026-10-18T11:00:00-04:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Browse books, magazines, and vinyl from a selection of independent vendors at Foil’s Book + Record Fair. Come dig for your next favourite find, with DJs setting the soundtrack throughout the day. \nFrom 9am to 5pm6560 Waverly St (sentier des Gorilles)\nDécouvrez des livres, des magazines et des vinyles proposés par une sélection de vendeurs indépendants lors de la « Foil’s Book + Record Fair ». Venez dénicher votre prochain coup de cœur au son de la musique mixée par des DJ tout au long de la journée.\nDe 9h à 17h6560 rue Waverly (sentier des Gorilles)",
+      "url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
+      "source_id": "rencontre-avec-martine-delvaux",
+      "title": "Rencontre avec Martine Delvaux",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": "2026-11-10T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
+      "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
       "title": "Lecture publique",
@@ -461,7 +461,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 12
+      "missing_runs": 13
     }
   }
 }
