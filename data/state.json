@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:58:19.656256-04:00",
+  "updated": "2026-10-16T17:43:38.888395-04:00",
   "events": {
     "4e554fd33c462e491d5e5b08@montreal-poetry-calendar": {
       "source_id": "a1e089631ccac081",
@@ -239,6 +239,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
+      "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
+      "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
+      "start": "2026-10-29T17:15:00-04:00",
+      "end": "2026-10-29T19:15:00-04:00",
+      "venue": "Maison de la culture Claude-Léveillée",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/les-5-a-7-de-la-maison-lecture-publique-de-la-piece-menaj-collectif-theatral-pot",
+      "info_url": "https://lepointdevente.com/billets/4ne261029001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
       "source_id": "e754311a95169526",
       "title": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET",
@@ -262,20 +276,6 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/les-auteurs-patrick-senecal-et-hugo-meunier-discutent-de-leurs-mechants-preferes",
       "info_url": "https://lepointdevente.com/billets/5u1261007005",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
-      "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
-      "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
-      "start": "2026-10-29T19:30:00-04:00",
-      "end": "2026-10-29T21:30:00-04:00",
-      "venue": "Maison de la culture Claude-Léveillée",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/les-5-a-7-de-la-maison-lecture-publique-de-la-piece-menaj-collectif-theatral-pot",
-      "info_url": "https://lepointdevente.com/billets/4ne261029001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -306,6 +306,20 @@
       "info_url": "https://www.instagram.com/p/DdtzXRPSQCe/",
       "status": "CONFIRMED",
       "source": "jays-list",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "d8c29d682ad18a78a20de9d9@montreal-poetry-calendar": {
+      "source_id": "e315cefe-2147-4ab9-9b7b-87f0fb738cad",
+      "title": "Nuit Bohème - La poésie partout",
+      "start": "2026-10-30T19:30:00-04:00",
+      "end": "2026-10-30T21:30:00-04:00",
+      "venue": "Maison de la culture Claude-Léveillée",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/nuit-boheme-la-poesie-partout",
+      "info_url": "https://lepointdevente.com/billets/4ne261030001",
+      "status": "CONFIRMED",
+      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -449,6 +463,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
+      "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
+      "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
+      "start": "2026-10-29T19:30:00-04:00",
+      "end": "2026-10-29T21:30:00-04:00",
+      "venue": "Maison de la culture Claude-Léveillée",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/les-5-a-7-de-la-maison-lecture-publique-de-la-piece-menaj-collectif-theatral-pot",
+      "info_url": "https://lepointdevente.com/billets/4ne261029001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
       "title": "Lecture publique",
@@ -461,7 +489,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 14
+      "missing_runs": 15
     }
   }
 }
