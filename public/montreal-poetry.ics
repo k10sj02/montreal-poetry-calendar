@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:BOOK TALK: DEPRESSION COOKING
 DTSTART;TZID=America/Toronto:20261017T160000
 DTEND;TZID=America/Toronto:20261017T180000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:fd11c972c7acb3e794a7a5aa@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BOOK TALK: DEPRESSION COOKING What: A chat with Sonali Menezes
@@ -29,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH
 DTSTART;TZID=America/Toronto:20261017T190000
 DTEND;TZID=America/Toronto:20261017T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:885f69ba8ba0ecf952a3e659@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH What: The Rocket 
@@ -49,7 +49,7 @@ BEGIN:VEVENT
 SUMMARY:Leigh Kotsilidis Book Launch
 DTSTART;TZID=America/Toronto:20261017T190000
 DTEND;TZID=America/Toronto:20261017T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:ad460398f215bfd0c6a2248f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:MONTREAL POETRY BOOK LAUNCH ‘Some of Us May Live’ by Leigh
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Record+Book Fair II at FOIL Gallery
 DTSTART;TZID=America/Toronto:20261018T090000
 DTEND;TZID=America/Toronto:20261018T110000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:dcf796d7dd7e624eda4e65b8@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Browse books\, magazines\, and vinyl from a selection of indep
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:METONYMY x METATRON FUNDRAISER
 DTSTART;TZID=America/Toronto:20261018T150000
 DTEND;TZID=America/Toronto:20261018T170000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:455cd7c8d3877b1194d92234@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:METONYMY x METATRON FUNDRAISER What: Oo ja\, ready to unh-tiss
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Metatron x Metonymy Press | Fundraiser\, Readings\, Dance Party
 DTSTART;TZID=America/Toronto:20261018T150000
 DTEND;TZID=America/Toronto:20261018T170000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:f0e26559c08140ee242218cd@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:@ Le Système\n\nTickets & more info here !\n\nListing: https:
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 SUMMARY:ACCENT OPEN MIC
 DTSTART;TZID=America/Toronto:20261018T200000
 DTEND;TZID=America/Toronto:20261018T220000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:58a8beb5a91471de209144c0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:ACCENT OPEN MIC What: Popular twice monthly bilingual open mic
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Rencontre littéraire - Mariana Mazza
 DTSTART;TZID=America/Toronto:20261020T180000
 DTEND;TZID=America/Toronto:20261020T200000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -162,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261021T173000
 DTEND;TZID=America/Toronto:20261021T193000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:e572a4ade09a7702028ef2c9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 SUMMARY:WOMEN ON THE RUN: GAIL SCOTT’S HEROINE
 DTSTART;TZID=America/Toronto:20261022T190000
 DTEND;TZID=America/Toronto:20261022T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:47f08d7806f8b33eb90b717f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:WOMEN ON THE RUN: GAIL SCOTT’S HEROINE What: Women on the Ru
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:FOIRE DES LIVRES DE GAUCHE
 DTSTART;TZID=America/Toronto:20261024T120000
 DTEND;TZID=America/Toronto:20261024T140000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:2f0895a591cda399861f8daa@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:FOIRE DES LIVRES DE GAUCHE What: A mostly French mini left win
@@ -219,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:BOOKMATCH
 DTSTART;TZID=America/Toronto:20261026T190000
 DTEND;TZID=America/Toronto:20261026T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:ee1d77ee0466d82e554009d3@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BOOKMATCH What: Get half-cut at LSH—your $45 gets you a glas
@@ -242,7 +242,7 @@ BEGIN:VEVENT
 SUMMARY:Lancement de Recueil - La Steppe
 DTSTART;TZID=America/Toronto:20261026T200000
 DTEND;TZID=America/Toronto:20261026T220000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:8585e7667dbd1dc486785457@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Casa del Popolo listings. Data: Has Things (hasthing
@@ -259,7 +259,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261027T183000
 DTEND;TZID=America/Toronto:20261027T203000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:08dfe10ba4ee9a15780107c1@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -276,7 +276,7 @@ SUMMARY:Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Co
  llectif Théâtral Potomitan
 DTSTART;TZID=America/Toronto:20261029T171500
 DTEND;TZID=America/Toronto:20261029T191500
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:510a24b9cd46eb426773c7a1@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Lecture publique
 DTSTART;TZID=America/Toronto:20261029T180000
 DTEND;TZID=America/Toronto:20261029T200000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:c43edfbf09598d1735cf8d9c@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -308,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET
 DTSTART;TZID=America/Toronto:20261029T190000
 DTEND;TZID=America/Toronto:20261029T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:297d7dba72b52c0f529b8cd5@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET What: GG-winner 
@@ -327,7 +327,7 @@ SUMMARY:Les auteurs Patrick Senécal et Hugo Meunier discutent de leurs m
  échants préférés
 DTSTART;TZID=America/Toronto:20261029T190000
 DTEND;TZID=America/Toronto:20261029T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:7331f7cc5c100334e5fa18dc@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -345,7 +345,7 @@ SUMMARY:Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Co
  llectif Théâtral Potomitan
 DTSTART;TZID=America/Toronto:20261029T193000
 DTEND;TZID=America/Toronto:20261029T213000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:0883159645781d5854b8f0ec@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -361,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Lecture publique
 DTSTART;TZID=America/Toronto:20261029T200000
 DTEND;TZID=America/Toronto:20261029T220000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:c115b1f7a53a9a1acb69d72e@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH
 DTSTART;TZID=America/Toronto:20261030T190000
 DTEND;TZID=America/Toronto:20261030T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:572d9780ca735d9209e22d96@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNC
@@ -396,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Nuit Bohème - La poésie partout
 DTSTART;TZID=America/Toronto:20261030T193000
 DTEND;TZID=America/Toronto:20261030T213000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:d8c29d682ad18a78a20de9d9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -412,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Le Grand Remix
 DTSTART;TZID=America/Toronto:20261030T200000
 DTEND;TZID=America/Toronto:20261030T220000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:3296d5d090e8bee2e8319783@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Le Ministère\, Lepointdevente Montréal\, Lepointde
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture de BD féministe
 DTSTART;TZID=America/Toronto:20261103T180000
 DTEND;TZID=America/Toronto:20261103T200000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -444,7 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Francos vs Anglos (20 ans de slam)
 DTSTART;TZID=America/Toronto:20261105T203000
 DTEND;TZID=America/Toronto:20261105T223000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:a8ecdd3f512e46107e694593@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Casa del Popolo listings. Data: Has Things (hasthing
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261106T133000
 DTEND;TZID=America/Toronto:20261106T153000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:4bab14928b9dd729c53cba08@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -476,7 +476,7 @@ BEGIN:VEVENT
 SUMMARY:Écrire un texte littéraire
 DTSTART;TZID=America/Toronto:20261107T101500
 DTEND;TZID=America/Toronto:20261107T121500
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -492,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Rencontre avec Martine Delvaux
 DTSTART;TZID=America/Toronto:20261110T190000
 DTEND;TZID=America/Toronto:20261110T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:0a0a6046973dc43fdd8a496f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:La librairie Résonance a le plaisir d'accueillir Martine Delv
@@ -521,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:Rencontre d'auteur avec Monique Proulx
 DTSTART;TZID=America/Toronto:20261110T190000
 DTEND;TZID=America/Toronto:20261110T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:e73172c8eab026c9566f415a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 SUMMARY:Finale gala du Grand Slam International de Montréal\, 3e édition
 DTSTART;TZID=America/Toronto:20261115T200000
 DTEND;TZID=America/Toronto:20261115T220000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:3b5460ab0930156c8cf78c2f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -553,7 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261118T173000
 DTEND;TZID=America/Toronto:20261118T193000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:519d167ec026e90b84b881c3@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - DJ POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261119T190000
 DTEND;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:68f6ff4429627a81b03de4cd@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Nous sommes ravis d'accueillir une figure marquante de la musi
@@ -602,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261124T183000
 DTEND;TZID=America/Toronto:20261124T203000
-DTSTAMP:20261018T114438Z
+DTSTAMP:20261018T160828Z
 UID:a730471d5c6057f178288eb0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
