@@ -1,20 +1,6 @@
 {
-  "updated": "2026-10-18T12:08:28.122777-04:00",
+  "updated": "2026-10-18T17:03:05.028172-04:00",
   "events": {
-    "fd11c972c7acb3e794a7a5aa@montreal-poetry-calendar": {
-      "source_id": "e6b4d41d9cbc4753",
-      "title": "BOOK TALK: DEPRESSION COOKING",
-      "start": "2026-10-17T16:00:00-04:00",
-      "end": "2026-10-17T18:00:00-04:00",
-      "venue": "Argo (1841-A Rue Sainte-Catherine O).",
-      "description": "BOOK TALK: DEPRESSION COOKING What: A chat with Sonali Menezes, author of the abovementioned book, plus some readings from other locals. Where: Argo (1841-A Rue Sainte-Catherine O). When: 4 to 6pm. Who: Sonali Menezes in conversation with Geneviève Wallen, plus Lee Arden and Zoe Maeve Jenkins. How much: Free, but RSVP recommended. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.argobookshop.ca/events/51753",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "885f69ba8ba0ecf952a3e659@montreal-poetry-calendar": {
       "source_id": "0a309f14859906e4",
       "title": "LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH",
@@ -43,13 +29,27 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "a09f78d50fd042a404dbd277@montreal-poetry-calendar": {
+      "source_id": "291892",
+      "title": "Accent Poetry Series: Garth Martens, Loch Baillie, David Gosselin, plus open mic!",
+      "start": "2026-10-18T11:33:58-04:00",
+      "end": "2026-10-18T13:33:58-04:00",
+      "venue": "",
+      "description": "Join poets Loch Baillie, David Gosselin, and Garth Martens at Bar Le Record for an evening of poetry at the Accent Poetry Series, a Montreal-based literary series and open mic. The open mic follows the featured readings.\n\nMontréal, Québec — Accent Poetry Series Sunday, Oct. 18, 8:00–11:00 p.m. Bar Le Record 7622 rue Saint-Hubert, Montréal, QC H2R 2N6\n\nLOCH BAILLIE\n\nIn his highly anticipated, breathtakingly intimate debut, Loch Baillie pens an unfiltered queer Bildungsroman that traces both a geographical and emotional journey from his birthplace in New England to where he comes to settle in Quebec.\n\nRaw and confessional, River Running dives gracefully into the intangible concept of home, be it person or place. “No more metaphors tonight,” writes Baillie, “I come to tell you nothing / but the truth.” This collection probes at memory and love, identity and grief, with achingly gentle hands, sifting through the fragments one both leaves behind and becomes.\n\nLoch Baillie is a writer, editor, and teacher based in Québec. He is the author of two poetry chapbooks, ice, dove, parachute (Cactus Press) and Citronella (Anstruther Press), as well as the full-length collection River Running (Goose Lane Editions). His next book, Head Split in Half, doubles as his Master’s thesis at Université Laval. Loch currently serves as associate poetry editor at Plenitude Magazine and as a board director for the Quebec Writers’ Federation. Find him everywhere @lochbaillie.\n\nDAVID B. GOSSELIN\n\nDavid Gosselin is a writer, researcher, translator and filmmaker. He is the founder of the multimedia platform Age of Muses on Substack, where he produces adaptations of both modern and classic works of poetry and literature, along with films, stories and dialogues. He also runs New Lyre Magazine, the print organ.\n\nGARTH MARTENS\n\nIn his first collection since the Governor General’s–nominated Prologue for the Age of Consequence, Garth Martens adds an autobiographical lens to his concerns about class and labour.\n\nA mother disappears. A son struggles to make sense of the life she left behind. Set against the stark northern Alberta of the 1980s and 90s, Who Else in the Dark Headed There follows a man reaching through time to find the child he was and the father he is becoming. Beneath this waking world is another world, of the overheard, of the unsaid. To enter is to find a lyricism finely wrought and hallucinatory, a depth of feeling and fidelity to metaphor in all its guises—but most of all an urgent relationship with language. Here, in a reconstruction of childhood’s rooms, Garth Martens approaches the past not as a record but as a pressure, a “muscled concentration” that reorders, resuscitates, and redoubts.\n\nPoems of intense emotion, the torque on the language extreme—as it must be, reaching this far into the dark, this honestly. —Jan Zwicky\n\nThis is hard stuff, looked at with a cold eye. It’s beautiful, fierce, profoundly defensive, smart as heck, and intrusive. —Harold Rhenisch, The BC Review\n\nArresting fragments emerge from a relentless invocation of half scenes, stitched together with the singular logic of poetic memory (which is to say, with mystery.) —Literary Review of Canada\n\nThe fragmented poems showcase an urgent relationship with language that is sensory, emotive and captivating. —CBC Books\n\nGarth Martens is the author of Who Else in the Dark Headed There (Biblioasis, 2026), the chapbook Remediation (JackPine, 2018), and Prologue for the Age of Consequence (Anansi, 2014), for which he was a finalist for the Governor General’s Literary Award in Poetry. He is also a past winner of the Bronwen Wallace Award for Emerging Writers. His poetry appears in Dark Mountain Project, BODY Literature, Poetry Ireland, Hazlitt, This Magazine, Fiddlehead, Vallum, Grain, Prism, Grain, and Best Canadian Poetry. He is co-founder of Palabra Flamenco, a literary flamenco ensemble that joins traditional flamenco dance and music with poetry and oral storytelling. He lives on Vancouver Island. Find him on Instagram @garthmartens.\n\nACCENT POETRY SERIES\n\nEstablished in 2019 by Devon Gallant and Luc-Antoine Chiasson, the Accent Reading Series was founded out of a desire to provide Montreal authors with a reliable venue to congregate and share their work with one another. Infamous for our unlimited open mic spots and the dreaded five-minute bell, over thirty open mic readers have graced the Accent stage on any given night.",
+      "url": "https://cultmtl.com/event/accent-poetry-series-garth-martens-loch-baillie-david-gosselin-plus-open-mic-2/",
+      "info_url": "https://cultmtl.com/event/accent-poetry-series-garth-martens-loch-baillie-david-gosselin-plus-open-mic-2/",
+      "status": "CONFIRMED",
+      "source": "cult-mtl",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "455cd7c8d3877b1194d92234@montreal-poetry-calendar": {
       "source_id": "8e8ccf8d0f29ddce",
       "title": "METONYMY x METATRON FUNDRAISER",
       "start": "2026-10-18T15:00:00-04:00",
       "end": "2026-10-18T17:00:00-04:00",
       "venue": "Le Système (7119 Rue St-Hubert).",
-      "description": "METONYMY x METATRON FUNDRAISER What: Oo ja, ready to unh-tiss unh-tiss unh-tiss, baby? Metonymy and Metatron are getting togezher for readingz und dancing to raise some money. …This German raver bit sounded better in my head. Kommst du ? Where: Le Système (7119 Rue St-Hubert). When: 3 to 9pm. This iz not ze Berghain! Who: TBD? How Much: $22.63. Oddly specific. ( Link )",
+      "description": "METONYMY x METATRON FUNDRAISER What: Oo ja, ready to unh-tiss unh-tiss unh-tiss, baby? Metonymy and Metatron are getting togezher for readingz und dancing to raise some money. …This German raver bit sounded better in my head. Kommst du ? Where: Le Système (7119 Rue St-Hubert). When: 3 to 9pm. This iz not ze Berghain! Who: Lotsa people. How Much: $22.63. Oddly specific. ( Link )",
       "url": "https://www.discordiareview.com/p/jays-list-october-2026",
       "info_url": "http://www.eventbrite.ca/e/metatron-x-metonymy-press-fundraiser-reading-dance-party-tickets-2001274264197",
       "status": "CONFIRMED",
@@ -77,9 +77,9 @@
       "start": "2026-10-18T20:00:00-04:00",
       "end": "2026-10-18T22:00:00-04:00",
       "venue": "Bar le Record (7622 rue Saint-Hubert).",
-      "description": "ACCENT OPEN MIC What: Popular twice monthly bilingual open mic—this episode’s theme TBD, guests TBD. (Computer, play that sickass chill Cisco hold music .) Where: Bar le Record (7622 rue Saint-Hubert). When: 8 to 10pm. Who: Whoever has the balls, plus the yet to be mentioned. How Much: Free. (Link TK)",
+      "description": "ACCENT OPEN MIC What: Popular twice monthly bilingual open mic—theme is Tongue(s). (Computer, play “Tongue” by R.E.M..) Where: Bar le Record (7622 rue Saint-Hubert). When: 8 to 10pm. Who: Whoever has the balls, plus Loch Baillie, David B. Gosselin, and Garth Martens. How Much: Free. ( Link )",
       "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.youtube.com/watch?v=nLpm4aysr8I",
+      "info_url": "https://www.instagram.com/accent_open_mic/",
       "status": "CONFIRMED",
       "source": "jays-list",
       "category": "Poetry & Literature",
@@ -141,6 +141,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "ebf22411bcc7739b3e6733eb@montreal-poetry-calendar": {
+      "source_id": "bc68c478158843fe",
+      "title": "SOPHIA CIRIGNANO: BAKED PEARS LAUNCH",
+      "start": "2026-10-24T18:30:00-04:00",
+      "end": "2026-10-24T20:30:00-04:00",
+      "venue": "Rocket Science Room (204-170 Jean Talon O [Atlas Building]).",
+      "description": "SOPHIA CIRIGNANO: BAKED PEARS LAUNCH What: Pears are good as hell. Is this Baseline Press chapbook? Of the several ways of finding out, going to this reading is one. Where: Rocket Science Room (204-170 Jean Talon O [Atlas Building]). When: 6:30pm. Who: Sophia Cirignano, Olive Andrews, Aris Keshav, Misha Solomon, hosted by Laura Mota-Juang. How Much: Free. ( Event link )",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://www.instagram.com/p/Dd0bqKZRy1S/",
+      "status": "CONFIRMED",
+      "source": "jays-list",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "ee1d77ee0466d82e554009d3@montreal-poetry-calendar": {
       "source_id": "a626bb56a96ca7ba",
       "title": "BOOKMATCH",
@@ -150,6 +164,20 @@
       "description": "BOOKMATCH What: Get half-cut at LSH—your $45 gets you a glass of prosecco, two glasses of wine, a $5 LSH giftcard and some time with a staffer, who will try to “set you up” with a book you’ll like. Personally I like to imagine you get all three glasses at once and everyone is walking around the store with their hands full. Also it’s presumably spooky. Where: Librairie St-Henri Bookstore (4622 rue Notre-Dame Ouest). When: 7pm. Who: Whoever has $45. How Much: $45. ( Link )",
       "url": "https://www.discordiareview.com/p/jays-list-october-2026",
       "info_url": "https://www.eventbrite.ca/e/bookmatch-lshb-halloween-edition-tickets-2002627203876",
+      "status": "CONFIRMED",
+      "source": "jays-list",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "9bf5876cc0c214b5daeb5de9@montreal-poetry-calendar": {
+      "source_id": "112c46355f62c3f6",
+      "title": "DAVID SZALAY: FLESH TALK",
+      "start": "2026-10-26T19:00:00-04:00",
+      "end": "2026-10-26T21:00:00-04:00",
+      "venue": "De Stiil Booksellers (351 Duluth Ave E).",
+      "description": "DAVID SZALAY: FLESH TALK What: Szalay took home the Booker for his most recent novel, Flesh . He’s here in Montreal to chew that fat about it with Sean Michaels. Where: De Stiil Booksellers (351 Duluth Ave E). When: 7pm. Who: Szalay and Michaels. How much: Free, but fully booked apparently. IG mentions a waitlist on the website , but I’m not seeing a link there…",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://destiil.com/",
       "status": "CONFIRMED",
       "source": "jays-list",
       "category": "Poetry & Literature",
@@ -180,6 +208,20 @@
       "info_url": "https://lepointdevente.com/billets/ut9260929001",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "ca43b6c3004aeb317b5df792@montreal-poetry-calendar": {
+      "source_id": "2938cbc8ff627170",
+      "title": "carte blanche #55 LAUNCH",
+      "start": "2026-10-27T19:00:00-04:00",
+      "end": "2026-10-27T21:00:00-04:00",
+      "venue": "Café Dépanneur (206 Rue Bernard O).",
+      "description": "carte blanche #55 LAUNCH What: Issue’s uh launching. No info out yet other than that! Where: Café Dépanneur (206 Rue Bernard O). When: 7pm. Who: TBD. How Much: Probly free. ( Link )",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://www.instagram.com/p/DeMkFgIx7jt/",
+      "status": "CONFIRMED",
+      "source": "jays-list",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -447,7 +489,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -461,7 +503,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 22
+      "missing_runs": 23
     }
   }
 }
