@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:21:20.078210-04:00",
+  "updated": "2026-10-19T09:58:17.031612-04:00",
   "events": {
     "a09f78d50fd042a404dbd277@montreal-poetry-calendar": {
       "source_id": "291892",
@@ -421,20 +421,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "dcf796d7dd7e624eda4e65b8@montreal-poetry-calendar": {
-      "source_id": "record-book-fair-ii-at-foil-gallery",
-      "title": "Record+Book Fair II at FOIL Gallery",
-      "start": "2026-10-18T09:00:00-04:00",
-      "end": "2026-10-18T11:00:00-04:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Browse books, magazines, and vinyl from a selection of independent vendors at Foil’s Book + Record Fair. Come dig for your next favourite find, with DJs setting the soundtrack throughout the day. \nFrom 9am to 5pm6560 Waverly St (sentier des Gorilles)\nDécouvrez des livres, des magazines et des vinyles proposés par une sélection de vendeurs indépendants lors de la « Foil’s Book + Record Fair ». Venez dénicher votre prochain coup de cœur au son de la musique mixée par des DJ tout au long de la journée.\nDe 9h à 17h6560 rue Waverly (sentier des Gorilles)",
-      "url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/record-book-fair-ii-at-foil-gallery",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
       "title": "Rencontre avec Martine Delvaux",
@@ -475,7 +461,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -489,7 +475,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 24
+      "missing_runs": 25
     }
   }
 }
