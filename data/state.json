@@ -1,34 +1,6 @@
 {
-  "updated": "2026-10-18T17:03:05.028172-04:00",
+  "updated": "2026-10-19T01:21:20.078210-04:00",
   "events": {
-    "885f69ba8ba0ecf952a3e659@montreal-poetry-calendar": {
-      "source_id": "0a309f14859906e4",
-      "title": "LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH",
-      "start": "2026-10-17T19:00:00-04:00",
-      "end": "2026-10-17T21:00:00-04:00",
-      "venue": "Rocket Science Room (204-170 Jean Talon O [Atlas Building]).",
-      "description": "LEIGH KOTSILIDIS: SOME OF US MAY LIVE LAUNCH What: The Rocket Science Room proprietress launches her latest poetry collection with Coach House at… Rocket Science Room! Two other performers will also be launched into low orbit alongside her. Where: Rocket Science Room (204-170 Jean Talon O [Atlas Building]). When: 7pm. Who: Leigh Kotsilidis, Deanna Radford, and Yusuf Saadi. How Much: Free. ( Event link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.instagram.com/p/Ddtv42oDi5c/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "ad460398f215bfd0c6a2248f@montreal-poetry-calendar": {
-      "source_id": "4411",
-      "title": "Leigh Kotsilidis Book Launch",
-      "start": "2026-10-17T19:00:00-04:00",
-      "end": "2026-10-17T21:00:00-04:00",
-      "venue": "",
-      "description": "MONTREAL POETRY BOOK LAUNCH ‘Some of Us May Live’ by Leigh Kotsilidis Readings by: LEIGH KOTSILIDIS DEANNA RADFORD (word-sound performance) & YUSUF SAADI\n\nOctober 17th, 7pm @rocketscienceroom FREE",
-      "url": "https://wherepoetsread.ca/leigh-kotsilidis-book-launch/",
-      "info_url": "https://www.instagram.com/rocketscienceroom/",
-      "status": "CONFIRMED",
-      "source": "wherepoetsread",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "a09f78d50fd042a404dbd277@montreal-poetry-calendar": {
       "source_id": "291892",
       "title": "Accent Poetry Series: Garth Martens, Loch Baillie, David Gosselin, plus open mic!",
@@ -96,6 +68,20 @@
       "info_url": "https://lepointdevente.com/billets/mariana-mazza",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "6c3b28283e1d844c52d80ca5@montreal-poetry-calendar": {
+      "source_id": "01fb6a9dc333154f",
+      "title": "SOLILOQUIES #31 LAUNCH / OPEN MIC",
+      "start": "2026-10-20T19:00:00-04:00",
+      "end": "2026-10-20T21:00:00-04:00",
+      "venue": "Co-Op Bar Milton Parc (3714 ave du Parc).",
+      "description": "SOLILOQUIES #31 LAUNCH / OPEN MIC What: Challenge: drink nine PBRs then try to say ‘soliloquies’ on the mic. Winner of the night gets the prize of being recognized as able to pronounce soluliloquilees under great duress. Where: Co-Op Bar Milton Parc (3714 ave du Parc). When: 7pm. Who: Whoever has the chutzpah. How Much: $5/PWYC, online sign-up required for the mic .",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://soliloquies.org/open-mic-sign-up/?utm_source=ig&utm_medium=social&utm_content=discordia",
+      "status": "CONFIRMED",
+      "source": "jays-list",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -489,7 +475,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -503,7 +489,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 23
+      "missing_runs": 24
     }
   }
 }
