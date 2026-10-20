@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T13:32:34.281545-04:00",
+  "updated": "2026-10-20T17:53:43.833795-04:00",
   "events": {
     "41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar": {
       "source_id": "31abb201-217e-4647-a5ec-db05add181ce",
@@ -323,6 +323,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "e41dda74bc8ea8881b824f04@montreal-poetry-calendar": {
+      "source_id": "2da5cfaa-df42-45c5-a8c0-fec13329764b",
+      "title": "Couronne et corset: Livre 5: Les milles visages et l'halloween éternel!",
+      "start": "2026-11-12T21:00:00-05:00",
+      "end": "2026-11-12T23:00:00-05:00",
+      "venue": "Cabaret Mado",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/couronne-et-corset-livre-5-les-milles-visages-et-l-halloween-eternel",
+      "info_url": "https://lepointdevente.com/billets/livrev",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
       "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
       "title": "Finale gala du Grand Slam International de Montréal, 3e édition",
@@ -391,7 +405,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -405,7 +419,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -419,7 +433,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 29
+      "missing_runs": 30
     }
   }
 }
