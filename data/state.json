@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T01:20:19.998717-04:00",
+  "updated": "2026-10-20T08:13:54.786681-04:00",
   "events": {
     "41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar": {
       "source_id": "31abb201-217e-4647-a5ec-db05add181ce",
@@ -315,7 +315,7 @@
       "start": "2026-11-10T19:00:00-05:00",
       "end": "2026-11-10T21:00:00-05:00",
       "venue": "Bibliothèque Le Prévost",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/rencontre-d-auteur-avec-monique-proulx",
       "info_url": "https://lepointdevente.com/billets/5u1260909001",
       "status": "CONFIRMED",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -405,7 +405,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -419,7 +419,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 27
+      "missing_runs": 28
     }
   }
 }
