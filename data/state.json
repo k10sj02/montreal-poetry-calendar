@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:40:32.598167-04:00",
+  "updated": "2026-10-21T17:59:26.578041-04:00",
   "events": {
     "6c3b28283e1d844c52d80ca5@montreal-poetry-calendar": {
       "source_id": "01fb6a9dc333154f",
@@ -12,20 +12,6 @@
       "info_url": "https://soliloquies.org/open-mic-sign-up/?utm_source=ig&utm_medium=social&utm_content=discordia",
       "status": "CONFIRMED",
       "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "e572a4ade09a7702028ef2c9@montreal-poetry-calendar": {
-      "source_id": "374cdc7c-bf9d-4e9f-ae10-65c18833c695",
-      "title": "Des livres et des tasses",
-      "start": "2026-10-21T17:30:00-04:00",
-      "end": "2026-10-21T19:30:00-04:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
-      "info_url": "https://lepointdevente.com/billets/p8u260916002",
-      "status": "CONFIRMED",
-      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -379,6 +365,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "e572a4ade09a7702028ef2c9@montreal-poetry-calendar": {
+      "source_id": "374cdc7c-bf9d-4e9f-ae10-65c18833c695",
+      "title": "Des livres et des tasses",
+      "start": "2026-10-21T17:30:00-04:00",
+      "end": "2026-10-21T19:30:00-04:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
+      "info_url": "https://lepointdevente.com/billets/p8u260916002",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar": {
       "source_id": "31abb201-217e-4647-a5ec-db05add181ce",
       "title": "Rencontre littéraire - Mariana Mazza",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -405,7 +405,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 8
+      "missing_runs": 9
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -419,7 +419,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -433,7 +433,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 33
+      "missing_runs": 34
     }
   }
 }
