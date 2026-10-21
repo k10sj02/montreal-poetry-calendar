@@ -1,20 +1,6 @@
 {
-  "updated": "2026-10-20T17:53:43.833795-04:00",
+  "updated": "2026-10-21T01:20:29.957016-04:00",
   "events": {
-    "41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar": {
-      "source_id": "31abb201-217e-4647-a5ec-db05add181ce",
-      "title": "Rencontre littéraire - Mariana Mazza",
-      "start": "2026-10-20T18:00:00-04:00",
-      "end": "2026-10-20T20:00:00-04:00",
-      "venue": "Salle Goncourt - bibliothèque Jean-Corbeil 7500 Av. Goncourt",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/rencontre-litteraire-mariana-mazza",
-      "info_url": "https://lepointdevente.com/billets/mariana-mazza",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "6c3b28283e1d844c52d80ca5@montreal-poetry-calendar": {
       "source_id": "01fb6a9dc333154f",
       "title": "SOLILOQUIES #31 LAUNCH / OPEN MIC",
@@ -393,6 +379,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "41401ccf3e6ce8c6edb1fc1d@montreal-poetry-calendar": {
+      "source_id": "31abb201-217e-4647-a5ec-db05add181ce",
+      "title": "Rencontre littéraire - Mariana Mazza",
+      "start": "2026-10-20T18:00:00-04:00",
+      "end": "2026-10-20T20:00:00-04:00",
+      "venue": "Salle Goncourt - bibliothèque Jean-Corbeil 7500 Av. Goncourt",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/rencontre-litteraire-mariana-mazza",
+      "info_url": "https://lepointdevente.com/billets/mariana-mazza",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
       "title": "Francos vs Anglos (20 ans de slam)",
@@ -405,7 +405,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -419,7 +419,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 16
+      "missing_runs": 17
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -433,7 +433,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 30
+      "missing_runs": 31
     }
   }
 }
