@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T13:38:54.843903-04:00",
+  "updated": "2026-10-22T17:56:06.716226-04:00",
   "events": {
     "47f08d7806f8b33eb90b717f@montreal-poetry-calendar": {
       "source_id": "6b6f3b67bd9cba6f",
@@ -350,20 +350,6 @@
       "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
-    },
-    "e572a4ade09a7702028ef2c9@montreal-poetry-calendar": {
-      "source_id": "374cdc7c-bf9d-4e9f-ae10-65c18833c695",
-      "title": "Des livres et des tasses",
-      "start": "2026-10-21T17:30:00-04:00",
-      "end": "2026-10-21T19:30:00-04:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
-      "info_url": "https://lepointdevente.com/billets/p8u260916002",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 2
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
