@@ -1,20 +1,20 @@
 {
-  "generated": "2026-10-22T01:23:26.418295-04:00",
+  "generated": "2026-10-22T08:28:25.685799-04:00",
   "count": 25,
   "cancelled": 4,
   "sources_ok": [
     "cult-mtl",
-    "has-things",
     "jays-list",
+    "librairie-resonance",
     "wherepoetsread"
   ],
   "errors": {
-    "librairie-resonance": "Server error '503 Service Unavailable' for url 'https://librairieresonance.com/en/pages/evenements'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+    "has-things": "Server error '500 Internal Server Error' for url 'https://montreal.hasthings.com/api/events?from=2026-10-22T08%3A28%3A25.685799-04%3A00&to=2026-12-21T08%3A28%3A25.685799-05%3A00&limit=500&offset=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
   },
   "sources": [
     "https://cultmtl.com/event_listing_category/literary/",
-    "https://montreal.hasthings.com/",
     "https://www.discordiareview.com/",
+    "https://librairieresonance.com/en/pages/evenements",
     "https://wherepoetsread.ca/"
   ]
 }
