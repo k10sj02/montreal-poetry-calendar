@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-23T13:28:03.709512-04:00",
-  "count": 25,
+  "generated": "2026-10-23T17:41:50.835808-04:00",
+  "count": 26,
   "cancelled": 3,
   "sources_ok": [
     "cult-mtl",
@@ -9,7 +9,7 @@
     "wherepoetsread"
   ],
   "errors": {
-    "has-things": "Server error '500 Internal Server Error' for url 'https://montreal.hasthings.com/api/events?from=2026-10-23T13%3A28%3A03.709512-04%3A00&to=2026-12-22T13%3A28%3A03.709512-05%3A00&limit=500&offset=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+    "has-things": "Server error '500 Internal Server Error' for url 'https://montreal.hasthings.com/api/events?from=2026-10-23T17%3A41%3A50.835808-04%3A00&to=2026-12-22T17%3A41%3A50.835808-05%3A00&limit=500&offset=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
   },
   "sources": [
     "https://cultmtl.com/event_listing_category/literary/",

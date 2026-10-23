@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T13:28:03.709512-04:00",
+  "updated": "2026-10-23T17:41:50.835808-04:00",
   "events": {
     "47f08d7806f8b33eb90b717f@montreal-poetry-calendar": {
       "source_id": "6b6f3b67bd9cba6f",
@@ -122,6 +122,20 @@
       "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
       "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar": {
+      "source_id": "causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+      "title": "Causerie - Série Microsillon - L'heptade de Jean-Christophe Laurence",
+      "start": "2026-11-18T18:00:00-05:00",
+      "end": "2026-11-18T20:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Christophe Laurence sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
+      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
       "status": "CONFIRMED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
