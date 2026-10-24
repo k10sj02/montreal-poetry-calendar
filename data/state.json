@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:02:45.581897-04:00",
+  "updated": "2026-10-24T07:38:50.066307-04:00",
   "events": {
     "2f0895a591cda399861f8daa@montreal-poetry-calendar": {
       "source_id": "6fb91c725c53eac1",
@@ -57,90 +57,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "ca43b6c3004aeb317b5df792@montreal-poetry-calendar": {
-      "source_id": "2938cbc8ff627170",
-      "title": "carte blanche #55 LAUNCH",
-      "start": "2026-10-27T19:00:00-04:00",
-      "end": "2026-10-27T21:00:00-04:00",
-      "venue": "Café Dépanneur (206 Rue Bernard O).",
-      "description": "carte blanche #55 LAUNCH What: Issue’s uh launching. No info out yet other than that! Where: Café Dépanneur (206 Rue Bernard O). When: 7pm. Who: TBD. How Much: Probly free. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.instagram.com/p/DeMkFgIx7jt/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
-      "source_id": "e754311a95169526",
-      "title": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T21:00:00-04:00",
-      "venue": "Argo (1841-A Rue Sainte-Catherine O).",
-      "description": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET What: GG-winner Anand conversates with cartoonist Gabrielle Drolet. Where: Argo (1841-A Rue Sainte-Catherine O). When: 7 to 9pm. Who: I said already! How much: Free, but RSVP recommended. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.argobookshop.ca/events/51755",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "572d9780ca735d9209e22d96@montreal-poetry-calendar": {
-      "source_id": "6fc526cf0bca21cb",
-      "title": "TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH",
-      "start": "2026-10-30T19:00:00-04:00",
-      "end": "2026-10-30T21:00:00-04:00",
-      "venue": "Librarie Drawn & Quarterly (176 rue Bernard O).",
-      "description": "TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH What : Even this blog is white. Crazy. Anyway, a double launch featuring new novels from Shraya and Mutonji. Where: Librarie Drawn & Quarterly (176 rue Bernard O). When: 7pm. Who: The aforementioned, in conversation with francesca ekwuyasi. How much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.instagram.com/p/DdtzXRPSQCe/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
-      "source_id": "rencontre-avec-martine-delvaux",
-      "title": "Rencontre avec Martine Delvaux",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
-      "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar": {
-      "source_id": "causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
-      "title": "Causerie - Série Microsillon - L'heptade de Jean-Christophe Laurence",
-      "start": "2026-11-18T18:00:00-05:00",
-      "end": "2026-11-18T20:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Christophe Laurence sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
-      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
-      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Nous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
-      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "8585e7667dbd1dc486785457@montreal-poetry-calendar": {
       "source_id": "8c34689d-fe85-4e11-9e40-7bdff43e0e37",
       "title": "Lancement de Recueil - La Steppe",
@@ -169,6 +85,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "ca43b6c3004aeb317b5df792@montreal-poetry-calendar": {
+      "source_id": "2938cbc8ff627170",
+      "title": "carte blanche #55 LAUNCH",
+      "start": "2026-10-27T19:00:00-04:00",
+      "end": "2026-10-27T21:00:00-04:00",
+      "venue": "Café Dépanneur (206 Rue Bernard O).",
+      "description": "carte blanche #55 LAUNCH What: Issue’s uh launching. No info out yet other than that! Where: Café Dépanneur (206 Rue Bernard O). When: 7pm. Who: TBD. How Much: Probly free. ( Link )",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://www.instagram.com/p/DeMkFgIx7jt/",
+      "status": "CONFIRMED",
+      "source": "jays-list",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
       "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
       "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
@@ -180,6 +110,20 @@
       "info_url": "https://lepointdevente.com/billets/4ne261029001",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
+      "source_id": "e754311a95169526",
+      "title": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": "2026-10-29T21:00:00-04:00",
+      "venue": "Argo (1841-A Rue Sainte-Catherine O).",
+      "description": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET What: GG-winner Anand conversates with cartoonist Gabrielle Drolet. Where: Argo (1841-A Rue Sainte-Catherine O). When: 7 to 9pm. Who: I said already! How much: Free, but RSVP recommended. ( Link )",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://www.argobookshop.ca/events/51755",
+      "status": "CONFIRMED",
+      "source": "jays-list",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -208,6 +152,20 @@
       "info_url": "https://lepointdevente.com/billets/32o261029001",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "572d9780ca735d9209e22d96@montreal-poetry-calendar": {
+      "source_id": "6fc526cf0bca21cb",
+      "title": "TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH",
+      "start": "2026-10-30T19:00:00-04:00",
+      "end": "2026-10-30T21:00:00-04:00",
+      "venue": "Librarie Drawn & Quarterly (176 rue Bernard O).",
+      "description": "TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH What : Even this blog is white. Crazy. Anyway, a double launch featuring new novels from Shraya and Mutonji. Where: Librarie Drawn & Quarterly (176 rue Bernard O). When: 7pm. Who: The aforementioned, in conversation with francesca ekwuyasi. How much: Free. ( Link )",
+      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
+      "info_url": "https://www.instagram.com/p/DdtzXRPSQCe/",
+      "status": "CONFIRMED",
+      "source": "jays-list",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -281,6 +239,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
+      "source_id": "rencontre-avec-martine-delvaux",
+      "title": "Rencontre avec Martine Delvaux",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": "2026-11-10T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
+      "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
       "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
       "title": "Rencontre d'auteur avec Monique Proulx",
@@ -337,6 +309,34 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar": {
+      "source_id": "causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+      "title": "Causerie - Série Microsillon - L'heptade de Jean-Christophe Laurence",
+      "start": "2026-11-18T18:00:00-05:00",
+      "end": "2026-11-18T20:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Christophe Laurence sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
+      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
+      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Nous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
+      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 35
+      "missing_runs": 36
     }
   }
 }
