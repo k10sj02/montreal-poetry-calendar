@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T09:35:52.768369-04:00",
+  "updated": "2026-10-26T18:53:04.233917-04:00",
   "events": {
     "ee1d77ee0466d82e554009d3@montreal-poetry-calendar": {
       "source_id": "a626bb56a96ca7ba",
@@ -335,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -349,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 30
+      "missing_runs": 31
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 44
+      "missing_runs": 45
     }
   }
 }
