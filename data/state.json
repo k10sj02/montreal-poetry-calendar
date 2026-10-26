@@ -1,20 +1,6 @@
 {
-  "updated": "2026-10-25T17:15:04.646906-04:00",
+  "updated": "2026-10-26T01:19:58.822346-04:00",
   "events": {
-    "ebf22411bcc7739b3e6733eb@montreal-poetry-calendar": {
-      "source_id": "bc68c478158843fe",
-      "title": "SOPHIA CIRIGNANO: BAKED PEARS LAUNCH",
-      "start": "2026-10-24T18:30:00-04:00",
-      "end": "2026-10-24T20:30:00-04:00",
-      "venue": "Rocket Science Room (204-170 Jean Talon O [Atlas Building]).",
-      "description": "SOPHIA CIRIGNANO: BAKED PEARS LAUNCH What: Pears are good as hell. Is this Baseline Press chapbook? Of the several ways of finding out, going to this reading is one. Where: Rocket Science Room (204-170 Jean Talon O [Atlas Building]). When: 6:30pm. Who: Sophia Cirignano, Olive Andrews, Aris Keshav, Misha Solomon, hosted by Laura Mota-Juang. How Much: Free. ( Event link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.instagram.com/p/Dd0bqKZRy1S/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "ee1d77ee0466d82e554009d3@montreal-poetry-calendar": {
       "source_id": "a626bb56a96ca7ba",
       "title": "BOOKMATCH",
@@ -346,10 +332,10 @@
       "description": "Nous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
       "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -363,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -377,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -391,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 42
+      "missing_runs": 43
     }
   }
 }
