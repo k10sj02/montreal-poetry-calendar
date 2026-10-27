@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T18:53:04.233917-04:00",
+  "updated": "2026-10-27T01:37:41.491639-04:00",
   "events": {
     "ee1d77ee0466d82e554009d3@montreal-poetry-calendar": {
       "source_id": "a626bb56a96ca7ba",
@@ -26,20 +26,6 @@
       "info_url": "https://destiil.com/",
       "status": "CONFIRMED",
       "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "8585e7667dbd1dc486785457@montreal-poetry-calendar": {
-      "source_id": "8c34689d-fe85-4e11-9e40-7bdff43e0e37",
-      "title": "Lancement de Recueil - La Steppe",
-      "start": "2026-10-26T20:00:00-04:00",
-      "end": "2026-10-26T22:00:00-04:00",
-      "venue": "La Sala Rossa",
-      "description": "Listed by Casa del Popolo listings. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/lancement-de-recueil-la-steppe",
-      "info_url": "https://t.venuepilot.com/e/lancement-de-recueil-la-steppe-2026-10-26-la-sala-rossa-montreal-cf5c86",
-      "status": "CONFIRMED",
-      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -323,6 +309,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "8585e7667dbd1dc486785457@montreal-poetry-calendar": {
+      "source_id": "8c34689d-fe85-4e11-9e40-7bdff43e0e37",
+      "title": "Lancement de Recueil - La Steppe",
+      "start": "2026-10-26T20:00:00-04:00",
+      "end": "2026-10-26T22:00:00-04:00",
+      "venue": "La Sala Rossa",
+      "description": "Listed by Casa del Popolo listings. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/lancement-de-recueil-la-steppe",
+      "info_url": "https://t.venuepilot.com/e/lancement-de-recueil-la-steppe-2026-10-26-la-sala-rossa-montreal-cf5c86",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
@@ -335,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 4
+      "missing_runs": 5
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -349,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 45
+      "missing_runs": 46
     }
   }
 }
