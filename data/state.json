@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:17:38.832393-04:00",
+  "updated": "2026-10-27T18:38:07.840540-04:00",
   "events": {
     "ee1d77ee0466d82e554009d3@montreal-poetry-calendar": {
       "source_id": "a626bb56a96ca7ba",
@@ -360,10 +360,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
       "info_url": "https://lepointdevente.com/billets/p8u261003001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "8585e7667dbd1dc486785457@montreal-poetry-calendar": {
       "source_id": "8c34689d-fe85-4e11-9e40-7bdff43e0e37",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -405,7 +405,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -419,7 +419,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 34
+      "missing_runs": 35
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -433,7 +433,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 48
+      "missing_runs": 49
     }
   }
 }
