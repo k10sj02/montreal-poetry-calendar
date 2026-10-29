@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T02:29:21.591882-04:00",
+  "updated": "2026-10-29T09:44:18.687767-04:00",
   "events": {
     "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
       "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
@@ -211,20 +211,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "fc9dda1e2dbf688c0695908f@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
@@ -267,20 +253,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
-      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": "2026-12-03T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "c9702b129f3cdc73a8b42e8d@montreal-poetry-calendar": {
       "source_id": "3e931bbf-6375-4bd6-9bc7-913b8b42f37d",
       "title": "Club de lecture",
@@ -309,6 +281,34 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
+    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
+      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": "2026-12-03T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
       "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
       "title": "Écrire un texte littéraire",
@@ -321,7 +321,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -335,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -349,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 39
+      "missing_runs": 40
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 53
+      "missing_runs": 54
     }
   }
 }
