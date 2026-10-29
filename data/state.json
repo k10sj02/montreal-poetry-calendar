@@ -1,20 +1,6 @@
 {
-  "updated": "2026-10-28T18:51:56.168086-04:00",
+  "updated": "2026-10-29T02:29:21.591882-04:00",
   "events": {
-    "ca43b6c3004aeb317b5df792@montreal-poetry-calendar": {
-      "source_id": "2938cbc8ff627170",
-      "title": "carte blanche #55 LAUNCH",
-      "start": "2026-10-27T19:00:00-04:00",
-      "end": "2026-10-27T21:00:00-04:00",
-      "venue": "Café Dépanneur (206 Rue Bernard O).",
-      "description": "carte blanche #55 LAUNCH What: Issue’s uh launching. Reading features a mix of the same four people who read at every show, and some other people. Where: Café Dépanneur (206 Rue Bernard O). When: 7pm. Who: Lotsa people, plus a musician. How Much: Probly free. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.instagram.com/p/DeMkFgIx7jt/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
       "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
       "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
@@ -335,7 +321,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -349,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -363,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -377,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 38
+      "missing_runs": 39
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -391,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 52
+      "missing_runs": 53
     }
   }
 }
