@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T09:36:30.118622-04:00",
+  "updated": "2026-10-30T18:39:33.458492-04:00",
   "events": {
     "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
       "source_id": "e754311a95169526",
@@ -80,6 +80,20 @@
       "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
+      "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
+      "title": "Écrire un texte littéraire",
+      "start": "2026-11-07T10:15:00-05:00",
+      "end": "2026-11-07T12:15:00-05:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
+      "info_url": "https://lepointdevente.com/billets/p8u261003001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -189,7 +203,7 @@
       "start": "2026-11-21T19:00:00-05:00",
       "end": "2026-11-21T21:00:00-05:00",
       "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Nous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
+      "description": "Notez que la session aura lieu le 21 janvier (et non le 19 novembre tel qu'initialement indiqué)\nNous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
       "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "status": "CONFIRMED",
@@ -279,7 +293,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "c115b1f7a53a9a1acb69d72e@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -293,35 +307,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
-    },
-    "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
-      "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
-      "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
-      "start": "2026-10-29T17:15:00-04:00",
-      "end": "2026-10-29T19:15:00-04:00",
-      "venue": "Maison de la culture Claude-Léveillée",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/les-5-a-7-de-la-maison-lecture-publique-de-la-piece-menaj-collectif-theatral-pot",
-      "info_url": "https://lepointdevente.com/billets/4ne261029001",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
       "missing_runs": 3
-    },
-    "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
-      "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
-      "title": "Écrire un texte littéraire",
-      "start": "2026-11-07T10:15:00-05:00",
-      "end": "2026-11-07T12:15:00-05:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
-      "info_url": "https://lepointdevente.com/billets/p8u261003001",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 10
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -335,7 +321,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 16
+      "missing_runs": 17
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -349,7 +335,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -363,21 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 43
-    },
-    "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
-      "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
-      "title": "Lecture publique",
-      "start": "2026-10-29T18:00:00-04:00",
-      "end": "2026-10-29T20:00:00-04:00",
-      "venue": "JIM de L'Instable",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/lecture-publique",
-      "info_url": "https://lepointdevente.com/billets/32o261029001",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 57
+      "missing_runs": 44
     }
   }
 }
