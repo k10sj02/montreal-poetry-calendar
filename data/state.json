@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T02:28:40.203798-04:00",
+  "updated": "2026-10-30T09:36:30.118622-04:00",
   "events": {
     "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
       "source_id": "e754311a95169526",
@@ -276,10 +276,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/les-auteurs-patrick-senecal-et-hugo-meunier-discutent-de-leurs-mechants-preferes",
       "info_url": "https://lepointdevente.com/billets/5u1261007005",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "c115b1f7a53a9a1acb69d72e@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -290,10 +290,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/lecture-publique",
       "info_url": "https://lepointdevente.com/billets/32o261029001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "510a24b9cd46eb426773c7a1@montreal-poetry-calendar": {
       "source_id": "68f74f4d-4db0-47f0-aeca-628ea1b98fed",
@@ -307,7 +307,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
       "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
@@ -321,7 +321,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -335,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -349,7 +349,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
       "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 42
+      "missing_runs": 43
     },
     "c43edfbf09598d1735cf8d9c@montreal-poetry-calendar": {
       "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 56
+      "missing_runs": 57
     }
   }
 }
