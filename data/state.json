@@ -1,20 +1,6 @@
 {
-  "updated": "2026-10-30T18:39:33.458492-04:00",
+  "updated": "2026-10-31T02:18:22.484511-04:00",
   "events": {
-    "297d7dba72b52c0f529b8cd5@montreal-poetry-calendar": {
-      "source_id": "e754311a95169526",
-      "title": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T21:00:00-04:00",
-      "venue": "Argo (1841-A Rue Sainte-Catherine O).",
-      "description": "BOOK TALK: MADHUR ANAND WITH GABRIELLE DROLET What: GG-winner Anand conversates with cartoonist Gabrielle Drolet. Where: Argo (1841-A Rue Sainte-Catherine O). When: 7 to 9pm. Who: I said already! How much: Free, but RSVP recommended. ( Link )",
-      "url": "https://www.discordiareview.com/p/jays-list-october-2026",
-      "info_url": "https://www.argobookshop.ca/events/51755",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "572d9780ca735d9209e22d96@montreal-poetry-calendar": {
       "source_id": "6fc526cf0bca21cb",
       "title": "TÉA MUTONJI & VIVEK SHRAYA: MY PERSON / THE HYSTERICALS LAUNCH",
@@ -26,34 +12,6 @@
       "info_url": "https://www.instagram.com/p/DdtzXRPSQCe/",
       "status": "CONFIRMED",
       "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "d8c29d682ad18a78a20de9d9@montreal-poetry-calendar": {
-      "source_id": "e315cefe-2147-4ab9-9b7b-87f0fb738cad",
-      "title": "Nuit Bohème - La poésie partout",
-      "start": "2026-10-30T19:30:00-04:00",
-      "end": "2026-10-30T21:30:00-04:00",
-      "venue": "Maison de la culture Claude-Léveillée",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/nuit-boheme-la-poesie-partout",
-      "info_url": "https://lepointdevente.com/billets/4ne261030001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "3296d5d090e8bee2e8319783@montreal-poetry-calendar": {
-      "source_id": "02475c61-ddfb-41ed-8909-5dac751fd9ee",
-      "title": "Le Grand Remix",
-      "start": "2026-10-30T20:00:00-04:00",
-      "end": "2026-10-30T22:00:00-04:00",
-      "venue": "Le Ministère",
-      "description": "Listed by Le Ministère, Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/le-grand-remix",
-      "info_url": "https://lepointdevente.com/billets/mns261030001?lang=fr",
-      "status": "CONFIRMED",
-      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -281,33 +239,33 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "7331f7cc5c100334e5fa18dc@montreal-poetry-calendar": {
-      "source_id": "646dd5ee-dc2b-4f1f-9ec5-57a2c0d96eb6",
-      "title": "Les auteurs Patrick Senécal et Hugo Meunier discutent de leurs méchants préférés",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T21:00:00-04:00",
-      "venue": "Bibliothèque Le Prévost",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/les-auteurs-patrick-senecal-et-hugo-meunier-discutent-de-leurs-mechants-preferes",
-      "info_url": "https://lepointdevente.com/billets/5u1261007005",
-      "status": "CANCELLED",
+    "d8c29d682ad18a78a20de9d9@montreal-poetry-calendar": {
+      "source_id": "e315cefe-2147-4ab9-9b7b-87f0fb738cad",
+      "title": "Nuit Bohème - La poésie partout",
+      "start": "2026-10-30T19:30:00-04:00",
+      "end": "2026-10-30T21:30:00-04:00",
+      "venue": "Maison de la culture Claude-Léveillée",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/nuit-boheme-la-poesie-partout",
+      "info_url": "https://lepointdevente.com/billets/4ne261030001",
+      "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 1
     },
-    "c115b1f7a53a9a1acb69d72e@montreal-poetry-calendar": {
-      "source_id": "b57c11cb-cd5b-4423-9b28-cf7189093cfa",
-      "title": "Lecture publique",
-      "start": "2026-10-29T20:00:00-04:00",
-      "end": "2026-10-29T22:00:00-04:00",
-      "venue": "JIM de L'Instable",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/lecture-publique",
-      "info_url": "https://lepointdevente.com/billets/32o261029001",
-      "status": "CANCELLED",
+    "3296d5d090e8bee2e8319783@montreal-poetry-calendar": {
+      "source_id": "02475c61-ddfb-41ed-8909-5dac751fd9ee",
+      "title": "Le Grand Remix",
+      "start": "2026-10-30T20:00:00-04:00",
+      "end": "2026-10-30T22:00:00-04:00",
+      "venue": "Le Ministère",
+      "description": "Listed by Le Ministère, Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/le-grand-remix",
+      "info_url": "https://lepointdevente.com/billets/mns261030001?lang=fr",
+      "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 1
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -321,7 +279,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -335,21 +293,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 33
-    },
-    "0883159645781d5854b8f0ec@montreal-poetry-calendar": {
-      "source_id": "5f86e7d3-57e0-4a8c-9f5c-01640b25fb05",
-      "title": "Les 5 à 7 de la maison : Lecture publique de la pièce MENAJ - Collectif Théâtral Potomitan",
-      "start": "2026-10-29T19:30:00-04:00",
-      "end": "2026-10-29T21:30:00-04:00",
-      "venue": "Maison de la culture Claude-Léveillée",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/les-5-a-7-de-la-maison-lecture-publique-de-la-piece-menaj-collectif-theatral-pot",
-      "info_url": "https://lepointdevente.com/billets/4ne261029001",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 44
+      "missing_runs": 34
     }
   }
 }
