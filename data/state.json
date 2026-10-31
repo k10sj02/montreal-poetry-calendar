@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T09:05:38.750074-04:00",
+  "updated": "2026-10-31T17:52:37.741952-04:00",
   "events": {
     "572d9780ca735d9209e22d96@montreal-poetry-calendar": {
       "source_id": "6fc526cf0bca21cb",
@@ -82,6 +82,20 @@
       "info_url": "https://lepointdevente.com/billets/5u1260909001",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
+      "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+      "title": "Causerie - Série Microsillon - D'eux en présence de Jean-Michel Fortier",
+      "start": "2026-11-11T18:00:00-05:00",
+      "end": "2026-11-11T20:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Venez rencontrer l'auteur du bouquin D'Eux de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Michel Fortier sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
+      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -251,7 +265,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "3296d5d090e8bee2e8319783@montreal-poetry-calendar": {
       "source_id": "02475c61-ddfb-41ed-8909-5dac751fd9ee",
@@ -265,7 +279,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -279,7 +293,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -293,7 +307,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 35
+      "missing_runs": 36
     }
   }
 }
