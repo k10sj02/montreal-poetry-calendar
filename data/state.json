@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:18:22.484511-04:00",
+  "updated": "2026-10-31T09:05:38.750074-04:00",
   "events": {
     "572d9780ca735d9209e22d96@montreal-poetry-calendar": {
       "source_id": "6fc526cf0bca21cb",
@@ -248,10 +248,10 @@
       "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/nuit-boheme-la-poesie-partout",
       "info_url": "https://lepointdevente.com/billets/4ne261030001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "3296d5d090e8bee2e8319783@montreal-poetry-calendar": {
       "source_id": "02475c61-ddfb-41ed-8909-5dac751fd9ee",
@@ -262,10 +262,10 @@
       "description": "Listed by Le Ministère, Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/le-grand-remix",
       "info_url": "https://lepointdevente.com/billets/mns261030001?lang=fr",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -279,7 +279,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 18
+      "missing_runs": 19
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -293,7 +293,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 34
+      "missing_runs": 35
     }
   }
 }
