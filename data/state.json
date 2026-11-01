@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T13:07:34.370031-05:00",
+  "updated": "2026-11-01T17:26:39.603566-05:00",
   "events": {
     "4aedbc72dcd9e20d5d5d2018@montreal-poetry-calendar": {
       "source_id": "c0b48ad6b6f9e283",
@@ -505,20 +505,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
-      "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
-      "title": "lecture publique de la Guerre des Tuques",
-      "start": "2026-12-02T21:00:00-05:00",
-      "end": "2026-12-02T23:00:00-05:00",
-      "venue": "Cabaret Mado",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/lecture-publique-de-la-guerre-des-tuques",
-      "info_url": "https://lepointdevente.com/billets/b97261202001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
       "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
       "title": "Conférence - Homère, poète de la littérature occidentale",
@@ -561,6 +547,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
+      "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
+      "title": "lecture publique de la Guerre des Tuques",
+      "start": "2026-12-02T21:00:00-05:00",
+      "end": "2026-12-02T23:00:00-05:00",
+      "venue": "Cabaret Mado",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/lecture-publique-de-la-guerre-des-tuques",
+      "info_url": "https://lepointdevente.com/billets/b97261202001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
@@ -573,7 +573,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 22
+      "missing_runs": 23
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -587,7 +587,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 38
+      "missing_runs": 39
     }
   }
 }
