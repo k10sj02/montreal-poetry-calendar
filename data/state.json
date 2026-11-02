@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:26:39.603566-05:00",
+  "updated": "2026-11-02T01:52:07.969475-05:00",
   "events": {
     "4aedbc72dcd9e20d5d5d2018@montreal-poetry-calendar": {
       "source_id": "c0b48ad6b6f9e283",
@@ -556,10 +556,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/lecture-publique-de-la-guerre-des-tuques",
       "info_url": "https://lepointdevente.com/billets/b97261202001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -573,7 +573,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -587,7 +587,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 39
+      "missing_runs": 40
     }
   }
 }
