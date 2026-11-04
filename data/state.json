@@ -1,34 +1,6 @@
 {
-  "updated": "2026-11-03T14:49:27.409087-05:00",
+  "updated": "2026-11-04T01:59:11.447740-05:00",
   "events": {
-    "d3eed6cffd498932dc27e72e@montreal-poetry-calendar": {
-      "source_id": "734b62082d665eb4",
-      "title": "SLAM LA SOMPTUEUSE",
-      "start": "2026-11-02T18:00:00-05:00",
-      "end": "2026-11-02T20:00:00-05:00",
-      "venue": "Librairie un livre à soi (6839 Rue St-Hubert).",
-      "description": "SLAM LA SOMPTUEUSE What: A bilingual slam where you can slam some poetry or whatever but but THIS ONE’S BYOB BAYBEE. Where: Librairie un livre à soi (6839 Rue St-Hubert). When: 6 to 8pm. Who: Whoever has the BYOBalls, plus features TBA. How Much: PWYC ( Link ).",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/De9JC2dMzu0/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar": {
-      "source_id": "477382a9-24a8-49e3-9168-892bc990d460",
-      "title": "Club de lecture de BD féministe",
-      "start": "2026-11-03T18:00:00-05:00",
-      "end": "2026-11-03T20:00:00-05:00",
-      "venue": "Bibliothèque Henri-Bourassa",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/club-de-lecture-de-bd-feministe-2026-10-06",
-      "info_url": "https://lepointdevente.com/billets/8zy260908001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "338fbbebd0e0ea1aa68a3fc0@montreal-poetry-calendar": {
       "source_id": "9466d4364d24175c",
       "title": "JRG LITERARY OPEN MIC",
@@ -547,6 +519,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar": {
+      "source_id": "477382a9-24a8-49e3-9168-892bc990d460",
+      "title": "Club de lecture de BD féministe",
+      "start": "2026-11-03T18:00:00-05:00",
+      "end": "2026-11-03T20:00:00-05:00",
+      "venue": "Bibliothèque Henri-Bourassa",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/club-de-lecture-de-bd-feministe-2026-10-06",
+      "info_url": "https://lepointdevente.com/billets/8zy260908001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
       "title": "lecture publique de la Guerre des Tuques",
@@ -559,7 +545,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -573,7 +559,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -587,7 +573,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 43
+      "missing_runs": 44
     }
   }
 }
