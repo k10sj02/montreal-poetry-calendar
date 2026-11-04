@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:59:11.447740-05:00",
+  "updated": "2026-11-04T15:02:40.459756-05:00",
   "events": {
     "338fbbebd0e0ea1aa68a3fc0@montreal-poetry-calendar": {
       "source_id": "9466d4364d24175c",
@@ -371,7 +371,7 @@
       "start": "2026-11-18T17:30:00-05:00",
       "end": "2026-11-18T19:30:00-05:00",
       "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
       "info_url": "https://lepointdevente.com/billets/p8u260916002",
       "status": "CONFIRMED",
@@ -418,20 +418,6 @@
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
       "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "fc9dda1e2dbf688c0695908f@montreal-poetry-calendar": {
-      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": "2026-11-21T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Notez que la session aura lieu le 21 janvier (et non le 19 novembre tel qu'initialement indiqué)\nNous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
-      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -519,6 +505,48 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "46e5c878106dfcb30e4a54c9@montreal-poetry-calendar": {
+      "source_id": "b53584c0-01e6-4c7a-8189-fb1fc0cb9671",
+      "title": "Des livres et des tasses",
+      "start": "2026-12-16T17:30:00-05:00",
+      "end": "2026-12-16T19:30:00-05:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
+      "info_url": "https://lepointdevente.com/billets/p8u260916002",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "9777f940c8212553d08b0f4e@montreal-poetry-calendar": {
+      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
+      "start": "2027-01-21T19:00:00-05:00",
+      "end": "2027-01-21T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Notez que la session aura lieu le 21 janvier (et non le 19 novembre tel qu'initialement indiqué)\nNous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
+      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "fc9dda1e2dbf688c0695908f@montreal-poetry-calendar": {
+      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
+      "start": "2026-11-21T19:00:00-05:00",
+      "end": "2026-11-21T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Notez que la session aura lieu le 21 janvier (et non le 19 novembre tel qu'initialement indiqué)\nNous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
+      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar": {
       "source_id": "477382a9-24a8-49e3-9168-892bc990d460",
       "title": "Club de lecture de BD féministe",
@@ -528,10 +556,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-de-bd-feministe-2026-10-06",
       "info_url": "https://lepointdevente.com/billets/8zy260908001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -545,7 +573,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -559,7 +587,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -573,7 +601,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 44
+      "missing_runs": 45
     }
   }
 }
