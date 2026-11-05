@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-04T15:02:40.459756-05:00",
+  "updated": "2026-11-05T02:25:31.678286-05:00",
   "events": {
-    "338fbbebd0e0ea1aa68a3fc0@montreal-poetry-calendar": {
-      "source_id": "9466d4364d24175c",
-      "title": "JRG LITERARY OPEN MIC",
-      "start": "2026-11-03T20:30:00-05:00",
-      "end": "2026-11-03T22:30:00-05:00",
-      "venue": "L’hémisphère gauche (221 Rue Beaubien E).",
-      "description": "JRG LITERARY OPEN MIC What: Rollicking monthly open mic with an absurdist edge, this time featuring two Discordia pals. Where: L’hémisphère gauche (221 Rue Beaubien E). When: 8:30pm. Who: Whoever has the balls, plus Mona Gendron and Andrea Finlay . How Much: PWYC. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.discordiareview.com/p/mona-gendrons-alien-abduction-stories",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "26b96d6a1c5d3ba7ff2f8359@montreal-poetry-calendar": {
       "source_id": "af704009bae9ba38",
       "title": "ROBIN CROFUT-BRITTINGHAM: THE ILLUMINATED BOOK OF BLOOMS LAUNCH",
@@ -542,22 +528,8 @@
       "description": "Notez que la session aura lieu le 21 janvier (et non le 19 novembre tel qu'initialement indiqué)\nNous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
       "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 1
-    },
-    "3e59f63aea0a61ed6cc17ec5@montreal-poetry-calendar": {
-      "source_id": "477382a9-24a8-49e3-9168-892bc990d460",
-      "title": "Club de lecture de BD féministe",
-      "start": "2026-11-03T18:00:00-05:00",
-      "end": "2026-11-03T20:00:00-05:00",
-      "venue": "Bibliothèque Henri-Bourassa",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/club-de-lecture-de-bd-feministe-2026-10-06",
-      "info_url": "https://lepointdevente.com/billets/8zy260908001",
       "status": "CANCELLED",
-      "source": "has-things",
+      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 2
     },
@@ -573,7 +545,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -587,7 +559,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -601,7 +573,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 45
+      "missing_runs": 46
     }
   }
 }
