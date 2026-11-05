@@ -1,19 +1,19 @@
 {
-  "generated": "2026-11-05T02:25:31.678286-05:00",
+  "generated": "2026-11-05T15:16:41.188018-05:00",
   "count": 37,
   "cancelled": 4,
   "sources_ok": [
     "cult-mtl",
     "has-things",
-    "jays-list",
     "librairie-resonance",
     "wherepoetsread"
   ],
-  "errors": {},
+  "errors": {
+    "jays-list": "'str' object has no attribute 'get'"
+  },
   "sources": [
     "https://cultmtl.com/event_listing_category/literary/",
     "https://montreal.hasthings.com/",
-    "https://www.discordiareview.com/",
     "https://librairieresonance.com/en/pages/evenements",
     "https://wherepoetsread.ca/"
   ]
