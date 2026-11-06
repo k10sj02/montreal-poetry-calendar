@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-05T15:16:41.188018-05:00",
+  "updated": "2026-11-06T02:25:40.966947-05:00",
   "events": {
-    "2f0a75f76da255ce648dc4e5@montreal-poetry-calendar": {
-      "source_id": "9bb8dbcd-ce05-48c5-92fe-f3a653af4817",
-      "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
-      "start": "2026-11-05T20:00:00-05:00",
-      "end": "2026-11-05T21:30:00-05:00",
-      "venue": "FineFineFine Café",
-      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
-      "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "4bab14928b9dd729c53cba08@montreal-poetry-calendar": {
       "source_id": "3dfd7648-ef27-4a9c-8f18-ef4a9acd76e4",
       "title": "Club de lecture",
@@ -252,6 +238,20 @@
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
+    },
+    "2f0a75f76da255ce648dc4e5@montreal-poetry-calendar": {
+      "source_id": "9bb8dbcd-ce05-48c5-92fe-f3a653af4817",
+      "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
+      "start": "2026-11-05T20:00:00-05:00",
+      "end": "2026-11-05T21:30:00-05:00",
+      "venue": "FineFineFine Café",
+      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
+      "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
     },
     "26b96d6a1c5d3ba7ff2f8359@montreal-poetry-calendar": {
       "source_id": "af704009bae9ba38",
@@ -531,7 +531,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 3
+      "missing_runs": 4
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -545,7 +545,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -559,7 +559,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
       "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
@@ -573,7 +573,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 47
+      "missing_runs": 48
     }
   }
 }
