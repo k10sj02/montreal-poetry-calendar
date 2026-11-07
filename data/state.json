@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T14:42:19.423084-05:00",
+  "updated": "2026-11-07T01:37:36.299034-05:00",
   "events": {
     "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
       "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
@@ -234,10 +234,10 @@
       "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -248,66 +248,10 @@
       "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
       "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 1
-    },
-    "2f0a75f76da255ce648dc4e5@montreal-poetry-calendar": {
-      "source_id": "9bb8dbcd-ce05-48c5-92fe-f3a653af4817",
-      "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
-      "start": "2026-11-05T20:00:00-05:00",
-      "end": "2026-11-05T21:30:00-05:00",
-      "venue": "FineFineFine Café",
-      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
-      "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
       "missing_runs": 2
-    },
-    "26b96d6a1c5d3ba7ff2f8359@montreal-poetry-calendar": {
-      "source_id": "af704009bae9ba38",
-      "title": "ROBIN CROFUT-BRITTINGHAM: THE ILLUMINATED BOOK OF BLOOMS LAUNCH",
-      "start": "2026-11-05T17:00:00-05:00",
-      "end": "2026-11-05T19:00:00-05:00",
-      "venue": "Librarie Drawn & Quarterly (176 rue Bernard O).",
-      "description": "ROBIN CROFUT-BRITTINGHAM: THE ILLUMINATED BOOK OF BLOOMS LAUNCH What: Robin Crofut-Brittingham! Now that ’s a name! Hell yeah. Launching an illustrated book about flowers here. Where: Librarie Drawn & Quarterly (176 rue Bernard O). When: 5 to 7pm. Who: Very excited to have the chance to type ‘Robin Crofut-Brittingham’ one more time. How Much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.facebook.com/events/4004110336563071",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "85be1cd39d01163442b267de@montreal-poetry-calendar": {
-      "source_id": "1899b09edf8d86d5",
-      "title": "AUTHORS IN CONVERSATION",
-      "start": "2026-11-05T19:00:00-05:00",
-      "end": "2026-11-05T21:00:00-05:00",
-      "venue": "Librairie Pulp Books & Cafe.",
-      "description": "AUTHORS IN CONVERSATION What : Call me back when it’s authors in contempt or artists in coitus. If you, however, prefer your authors conversating, this is the show for you! Where: Librairie Pulp Books & Cafe. When: 7pm. Who: Francesca Ekwuyasi, Christine Fischer Guy, and Alice Zorn. How much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://pulpbooks.ca/events/6638920261105",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "3990e3a5254a983b2014f1b2@montreal-poetry-calendar": {
-      "source_id": "5f5fe09d5785ced7",
-      "title": "FINE VIBES MIC",
-      "start": "2026-11-05T20:00:00-05:00",
-      "end": "2026-11-05T22:00:00-05:00",
-      "venue": "FineFineFine Café (4268 boul St-Laurent).",
-      "description": "FINE VIBES MIC What: An all-sorts open mic with a focus on comedy. I’m told the vibes are on an uncomfortably rumbly setting throughout, and there’s no way to take the batteries out. Where: FineFineFine Café (4268 boul St-Laurent). When: 8pm. Who: Whoever has the balls, plus Elspeth Wright and Lou Laurence. How Much: PWYC. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://docs.google.com/forms/d/e/1FAIpQLSdajVm-OjaOfiQP-hV5aXc4EjZTyRbc6CeBGsf-oV809Gh27w/viewform",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
     },
     "451dfc1131c44d8606a7ae20@montreal-poetry-calendar": {
       "source_id": "0316423d435b59be",
@@ -545,7 +489,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -559,7 +503,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -573,21 +517,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 33
-    },
-    "a8ecdd3f512e46107e694593@montreal-poetry-calendar": {
-      "source_id": "b2551848-46ed-4490-b498-e354cb61e7ee",
-      "title": "Francos vs Anglos (20 ans de slam)",
-      "start": "2026-11-05T20:30:00-05:00",
-      "end": "2026-11-05T22:30:00-05:00",
-      "venue": "Casa del Popolo",
-      "description": "Listed by Casa del Popolo listings. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/francos-vs-anglos-20-ans-de-slam",
-      "info_url": "https://www.venuepilot.co/en/events/170363/orders/new",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 49
+      "missing_runs": 34
     }
   }
 }
