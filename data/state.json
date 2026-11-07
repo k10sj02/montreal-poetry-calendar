@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:37:36.299034-05:00",
+  "updated": "2026-11-07T08:34:25.587414-05:00",
   "events": {
     "11013ea51a7e5efa5fe5e8a6@montreal-poetry-calendar": {
       "source_id": "c5f78bd3-7408-4c80-81dc-3ffeed800605",
@@ -183,6 +183,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar": {
+      "source_id": "6b3965b0-84b9-4d60-b94e-8823af1af25a",
+      "title": "Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT",
+      "start": "2026-12-13T14:00:00-05:00",
+      "end": "2026-12-13T16:00:00-05:00",
+      "venue": "Centre Sanaaq",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/creation-d-un-livre-pop-up-inscrire-les-enfants-uniquement",
+      "info_url": "https://lepointdevente.com/billets/ut9261213002",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "f4b2fe95de3d3650554ab296@montreal-poetry-calendar": {
       "source_id": "87ba6e62-ef8c-40fd-a49b-f4c233d094ce",
       "title": "Club de lecture",
@@ -237,7 +251,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -251,7 +265,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "451dfc1131c44d8606a7ae20@montreal-poetry-calendar": {
       "source_id": "0316423d435b59be",
@@ -489,7 +503,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -503,7 +517,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -517,7 +531,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 34
+      "missing_runs": 35
     }
   }
 }
