@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:43:31.549183-05:00",
+  "updated": "2026-11-08T08:52:43.170042-05:00",
   "events": {
     "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
       "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
@@ -237,7 +237,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -251,7 +251,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 5
+      "missing_runs": 6
     },
     "9c7b557ea2a16048fd6aa3ce@montreal-poetry-calendar": {
       "source_id": "3763bcd926ac41b9",
@@ -475,7 +475,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 9
+      "missing_runs": 10
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -489,7 +489,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -503,7 +503,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 37
+      "missing_runs": 38
     }
   }
 }
