@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:29:48.413875-05:00",
+  "updated": "2026-11-09T02:12:44.530092-05:00",
   "events": {
     "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
       "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
@@ -206,10 +206,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
       "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
@@ -220,10 +220,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -237,21 +237,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 7
-    },
-    "9c7b557ea2a16048fd6aa3ce@montreal-poetry-calendar": {
-      "source_id": "3763bcd926ac41b9",
-      "title": "THROW! POETRY SLAM",
-      "start": "2026-11-07T20:00:00-05:00",
-      "end": "2026-11-07T22:00:00-05:00",
-      "venue": "Le basement. (3716 Notre Dame O.)",
-      "description": "THROW! POETRY SLAM What: Poetry slam, first Saturday of every month. Try not to smack the person in front of you in the back of the head when you do the whole “throw!” hand motion—or better yet, do it. Where: Le basement. (3716 Notre Dame O.) When: 8pm. Who: Be Wyrd, plus whoever has the bylls. How Much: $10. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/De7wQXltCEk/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 8
     },
     "41764ea34c465685018c95a5@montreal-poetry-calendar": {
       "source_id": "be705cc76d45a949",
@@ -461,7 +447,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -475,7 +461,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -489,7 +475,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 39
+      "missing_runs": 40
     }
   }
 }
