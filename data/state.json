@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:12:44.530092-05:00",
+  "updated": "2026-11-09T17:42:40.637084-05:00",
   "events": {
     "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
       "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
@@ -209,7 +209,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
       "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
@@ -223,7 +223,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -237,21 +237,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 8
-    },
-    "41764ea34c465685018c95a5@montreal-poetry-calendar": {
-      "source_id": "be705cc76d45a949",
-      "title": "MOVING JUST FINE BOOK SWAP",
-      "start": "2026-11-08T13:00:00-05:00",
-      "end": "2026-11-08T15:00:00-05:00",
-      "venue": "Moving Just Fine (305-642 rue de Courcelle)",
-      "description": "MOVING JUST FINE BOOK SWAP What: So there’s this Steve guy who, as I understand it, has some books—and if you have some books of your own, you can bring ‘em. And you gives your books away, see, and you get some tickets that you can trade for… other people’s books, his books, whatever books are at hand. I’ve overcomplicated this. Where: Moving Just Fine (305-642 rue de Courcelle) When: 1 to 3pm. Who: Whoever has the books. How Much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/DeehMVAxWU8/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 9
     },
     "f3fcf89471f95f6d51cf3eed@montreal-poetry-calendar": {
       "source_id": "43f6eeb408ad6315",
@@ -447,7 +433,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 12
+      "missing_runs": 13
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -461,7 +447,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 18
+      "missing_runs": 19
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -475,7 +461,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 40
+      "missing_runs": 41
     }
   }
 }
