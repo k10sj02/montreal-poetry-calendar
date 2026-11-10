@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:45:01.253281-05:00",
+  "updated": "2026-11-10T15:01:14.160759-05:00",
   "events": {
     "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
       "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
@@ -99,20 +99,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -122,20 +108,6 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture",
       "info_url": "https://lepointdevente.com/billets/ut9260929001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
-      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": "2026-12-03T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -166,6 +138,20 @@
       "info_url": "https://lepointdevente.com/billets/p8u261003001",
       "status": "CONFIRMED",
       "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "0f96a33d296e07a19a786341@montreal-poetry-calendar": {
+      "source_id": "discussion-why-music-is-genetic",
+      "title": "Discussion - Why Music is Genetic",
+      "start": "2026-12-11T19:00:00-05:00",
+      "end": "2026-12-11T21:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Contributor(s): Bullerdiek, Jörn (Author) , Süßmuth, Christine (Author) , Grönemeyer, Dietrich (Foreword by) , Darwin, Sarah (Foreword by)\nWe are happy to welcome the authors of Why Music is Genetic, Jörn Bullerdiek and Christine Submuth for a discussion on the subject of genetics and music. \nFree admission. Book will be available.\n\nBiographical Note:Jörn Bullerdiek is a human geneticist currently working as scientific advisor at the Genetic and Immunology Testing Laboratory, Alicante, Spain. He is also a committed supporter of interdisciplinary collaborations, such as the one on which this book is based.\nChristine Süßmuth studied Early Music at the University of Arts in Bremen, Germany. As a soloist and ensemble singer, she knows exactly what she is talking about when it comes to musical technique, music history, and the joy of making music.\nDo you know why Johann Sebastian Bach was considered light-fingered? Or what you could do with a lock of Mozart's hair if you had it? These questions could lead you to an ancient mystery: Why do humans enjoy producing musical notes, as Darwin put it? Is this ability literally in our DNA, and if so, what is it doing there? The authors sailed dangerously close to the Sirens' Rock and joined Orpheus in meeting the sinister creatures of the underworld. They traced the path of sound waves from their source to the listener's brain and analyzed the genealogy of the Bach family and the song of zebra finches. They visited \"Scarborough Fair\" to buy parsley, sage, rosemary, and thyme. Eventually, they took the ferry to the \"Isle of Capri,\" referencing Frank Sinatra and the many other singers who have covered that song. Overall, the result is an entertaining and informative analysis of what makes music so fascinating and how this fascination is reflected in our genes from ancient Egypt to the present day.",
+      "url": "https://librairieresonance.com/en/blogs/evenements/discussion-why-music-is-genetic",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/discussion-why-music-is-genetic",
+      "status": "CONFIRMED",
+      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -225,6 +211,34 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
+    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
+      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": "2026-12-03T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
       "title": "Rencontre avec Martine Delvaux",
@@ -237,7 +251,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "f3fcf89471f95f6d51cf3eed@montreal-poetry-calendar": {
       "source_id": "43f6eeb408ad6315",
@@ -433,7 +447,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 14
+      "missing_runs": 15
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -447,7 +461,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -461,7 +475,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 42
+      "missing_runs": 43
     }
   }
 }
