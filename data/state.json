@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-10T15:01:14.160759-05:00",
+  "updated": "2026-11-11T02:10:29.639086-05:00",
   "events": {
-    "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
-      "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
-      "title": "Rencontre d'auteur avec Monique Proulx",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Bibliothèque Le Prévost",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/rencontre-d-auteur-avec-monique-proulx",
-      "info_url": "https://lepointdevente.com/billets/5u1260909001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
       "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
       "title": "Causerie - Série Microsillon - D'eux en présence de Jean-Michel Fortier",
@@ -211,6 +197,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
+      "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
+      "title": "Rencontre d'auteur avec Monique Proulx",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": "2026-11-10T21:00:00-05:00",
+      "venue": "Bibliothèque Le Prévost",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/rencontre-d-auteur-avec-monique-proulx",
+      "info_url": "https://lepointdevente.com/billets/5u1260909001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
       "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
       "title": "Conférence - Homère, poète de la littérature occidentale",
@@ -220,10 +220,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
       "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
@@ -234,10 +234,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
       "source_id": "rencontre-avec-martine-delvaux",
@@ -251,21 +251,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 11
-    },
-    "f3fcf89471f95f6d51cf3eed@montreal-poetry-calendar": {
-      "source_id": "43f6eeb408ad6315",
-      "title": "HEADLIGHT ANTHOLOGY : LAMP LIGHT",
-      "start": "2026-11-09T19:00:00-05:00",
-      "end": "2026-11-09T21:00:00-05:00",
-      "venue": "Co-Op Bar Milton Parc (3714 ave du Parc).",
-      "description": "HEADLIGHT ANTHOLOGY : LAMP LIGHT What: I'm so relieved to report this isn’t an open mic that I won’t even point out there’s a series in town already called Lamp Lit . Anyway, go to bar, listen to other people read, and keep your own poems to yourself! Also, there’s a bruschetta station? Where: Co-Op Bar Milton Parc (3714 ave du Parc). When: 7pm. Who: Bronwyn Garden-Smith, Evie Faber, Hannah Berger, Rebecca Lawrence Lynch, Syd Lazarus, and Tehsin Ahmed, with music by Zein Nakhleh & Sam Hoyek. How Much: $5/PWYC, or $12 with copy of the new issue. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/DTGAUG6jmbr/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 12
     },
     "7922a45b56526d540aba33bf@montreal-poetry-calendar": {
       "source_id": "4297d530ddf76dbe",
@@ -447,7 +433,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 15
+      "missing_runs": 16
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -461,7 +447,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 21
+      "missing_runs": 22
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -475,7 +461,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 43
+      "missing_runs": 44
     }
   }
 }
