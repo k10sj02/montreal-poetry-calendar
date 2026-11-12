@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-12T02:44:30.307286-05:00",
+  "updated": "2026-11-12T15:27:56.418647-05:00",
   "events": {
-    "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
-      "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
-      "title": "Causerie - Série Microsillon - D'eux en présence de Jean-Michel Fortier",
-      "start": "2026-11-11T18:00:00-05:00",
-      "end": "2026-11-11T20:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Venez rencontrer l'auteur du bouquin D'Eux de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Michel Fortier sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
-      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
-      "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "452249a613e524a267b4c769@montreal-poetry-calendar": {
       "source_id": "5bce312e-20a9-4a66-9fb8-14ed8a8af635",
       "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
@@ -85,6 +71,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -94,6 +94,20 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture",
       "info_url": "https://lepointdevente.com/billets/ut9260929001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
+      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": "2026-12-03T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -197,31 +211,17 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+    "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
+      "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+      "title": "Causerie - Série Microsillon - D'eux en présence de Jean-Michel Fortier",
+      "start": "2026-11-11T18:00:00-05:00",
+      "end": "2026-11-11T20:00:00-05:00",
+      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
+      "description": "Venez rencontrer l'auteur du bouquin D'Eux de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Michel Fortier sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
+      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
       "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 1
-    },
-    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
-      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": "2026-12-03T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
+      "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 1
     },
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 18
+      "missing_runs": 19
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 24
+      "missing_runs": 25
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -405,7 +405,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 46
+      "missing_runs": 47
     }
   }
 }
