@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T14:52:22.827269-05:00",
+  "updated": "2026-11-12T02:44:30.307286-05:00",
   "events": {
     "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
       "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
@@ -85,20 +85,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -108,20 +94,6 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture",
       "info_url": "https://lepointdevente.com/billets/ut9260929001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
-      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": "2026-12-03T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -225,61 +197,33 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "e73172c8eab026c9566f415a@montreal-poetry-calendar": {
-      "source_id": "50a72d14-6cc8-4ce5-b9ab-282b8538a779",
-      "title": "Rencontre d'auteur avec Monique Proulx",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Bibliothèque Le Prévost",
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/rencontre-d-auteur-avec-monique-proulx",
-      "info_url": "https://lepointdevente.com/billets/5u1260909001",
-      "status": "CANCELLED",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 1
     },
-    "0a0a6046973dc43fdd8a496f@montreal-poetry-calendar": {
-      "source_id": "rencontre-avec-martine-delvaux",
-      "title": "Rencontre avec Martine Delvaux",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "La librairie Résonance a le plaisir d'accueillir Martine Delvaux afin de discuter de son plus récent ouvrage, Divas. \nVous êtes invité.es à venir assister à une discussion entre Delvaux et moi, suivra ensuite une période de question.\nGratuit\nVoix incontournable du féminisme au Canada, Martine Delvaux livre une enquête sensible et ample sur la voix de celles qu’on a si souvent tenté de réduire au silence.\n« Il ne s’agit pas ici d’attraper les divas, toutes les divas, dans le but de les collectionner, d’en faire une encyclopédie ou un dictionnaire, de coller sur elles des connaissances exhaustives, un savoir universitaire, il ne s’agit pas de les épingler comme on le fait avec les papillons. Non, il s’agit simplement d’en choisir certaines, d’écouter leurs voix monter pour y puiser une leçon de création et d’ambition, en même temps que d’humanité et d’humilité. » Martine Delvaux, extrait Divas",
-      "url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/rencontre-avec-martine-delvaux",
-      "status": "CANCELLED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 13
-    },
-    "7922a45b56526d540aba33bf@montreal-poetry-calendar": {
-      "source_id": "4297d530ddf76dbe",
-      "title": "THE EXPOZINE GALA",
-      "start": "2026-11-10T17:00:00-05:00",
-      "end": "2026-11-10T19:00:00-05:00",
-      "venue": "Quai des brumes.",
-      "description": "THE EXPOZINE GALA What : Each year Expozine recognizes some of the best publications that were available at the previous year’s edition at a short gala—to our pleasant surprise, Phil Hall’s The Hobo from Discordia made this year’s English lit shortlist. Cross yr fingers and toes for us, or maybe buy a copy . He’s one of the best poets alive. Where: Quai des brumes. When: 5 to 7pm. Who: Simply everyone, dahling. How much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.discordiareview.com/p/discordia-review-press-catalogue",
+    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
+      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": "2026-12-03T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
-      "source": "jays-list",
+      "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "ec493dddc60cb1344b92b1a1@montreal-poetry-calendar": {
-      "source_id": "aa536bbda2519f15",
-      "title": "CONYER CLAYTON / JODY CHAN DOUBLE LAUNCH",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T21:00:00-05:00",
-      "venue": "Librairie Pulp Books & Cafe.",
-      "description": "CONYER CLAYTON / JODY CHAN DOUBLE LAUNCH What : Ottawa’s Conyer Clayton and Toronto’s Jody Chan pull up for a double poetry launch at Pulp. It stands to reason they will read from their respective books. Where: Librairie Pulp Books & Cafe. When: 7pm. Who: Clayton and Chan, in conversation with D.M. Bradford. How much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/De18z01Ou_B/",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 1
     },
     "48b341b0d6e9a7ba64c7a399@montreal-poetry-calendar": {
       "source_id": "aa7417dc4c14f61d",
@@ -433,7 +377,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 17
+      "missing_runs": 18
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -447,7 +391,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 23
+      "missing_runs": 24
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -461,7 +405,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 45
+      "missing_runs": 46
     }
   }
 }
