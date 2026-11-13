@@ -1,34 +1,6 @@
 {
-  "updated": "2026-11-12T15:27:56.418647-05:00",
+  "updated": "2026-11-13T02:19:30.087158-05:00",
   "events": {
-    "452249a613e524a267b4c769@montreal-poetry-calendar": {
-      "source_id": "5bce312e-20a9-4a66-9fb8-14ed8a8af635",
-      "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T22:00:00-05:00",
-      "venue": "FineFineFine Café",
-      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
-      "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "e41dda74bc8ea8881b824f04@montreal-poetry-calendar": {
-      "source_id": "2da5cfaa-df42-45c5-a8c0-fec13329764b",
-      "title": "Couronne et corset: Livre 5: Les milles visages et l'halloween éternel!",
-      "start": "2026-11-12T21:00:00-05:00",
-      "end": "2026-11-12T23:00:00-05:00",
-      "venue": "Cabaret Mado",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/couronne-et-corset-livre-5-les-milles-visages-et-l-halloween-eternel",
-      "info_url": "https://lepointdevente.com/billets/livrev",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
       "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
       "title": "Finale gala du Grand Slam International de Montréal, 3e édition",
@@ -211,17 +183,31 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "f1590170bd9500c3c2bad849@montreal-poetry-calendar": {
-      "source_id": "causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
-      "title": "Causerie - Série Microsillon - D'eux en présence de Jean-Michel Fortier",
-      "start": "2026-11-11T18:00:00-05:00",
-      "end": "2026-11-11T20:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Venez rencontrer l'auteur du bouquin D'Eux de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Michel Fortier sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
-      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-deux-en-presence-de-jean-michel-fortier",
+    "452249a613e524a267b4c769@montreal-poetry-calendar": {
+      "source_id": "5bce312e-20a9-4a66-9fb8-14ed8a8af635",
+      "title": "Fine Vibes Mic | Open Mic for Comedy, Music, Poetry & Storytelling",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T22:00:00-05:00",
+      "venue": "FineFineFine Café",
+      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
+      "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
       "status": "CONFIRMED",
-      "source": "librairie-resonance",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
+    "e41dda74bc8ea8881b824f04@montreal-poetry-calendar": {
+      "source_id": "2da5cfaa-df42-45c5-a8c0-fec13329764b",
+      "title": "Couronne et corset: Livre 5: Les milles visages et l'halloween éternel!",
+      "start": "2026-11-12T21:00:00-05:00",
+      "end": "2026-11-12T23:00:00-05:00",
+      "venue": "Cabaret Mado",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/couronne-et-corset-livre-5-les-milles-visages-et-l-halloween-eternel",
+      "info_url": "https://lepointdevente.com/billets/livrev",
+      "status": "CONFIRMED",
+      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 1
     },
@@ -377,7 +363,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 19
+      "missing_runs": 20
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -391,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 25
+      "missing_runs": 26
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -405,7 +391,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 47
+      "missing_runs": 48
     }
   }
 }
