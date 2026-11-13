@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T02:19:30.087158-05:00",
+  "updated": "2026-11-13T15:03:48.688427-05:00",
   "events": {
     "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
       "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
@@ -91,7 +91,7 @@
       "start": "2026-12-04T13:30:00-05:00",
       "end": "2026-12-04T15:30:00-05:00",
       "venue": "Bibliothèque Saul-Bellow",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
       "status": "CONFIRMED",
@@ -119,7 +119,7 @@
       "start": "2026-12-11T19:00:00-05:00",
       "end": "2026-12-11T21:00:00-05:00",
       "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Contributor(s): Bullerdiek, Jörn (Author) , Süßmuth, Christine (Author) , Grönemeyer, Dietrich (Foreword by) , Darwin, Sarah (Foreword by)\nWe are happy to welcome the authors of Why Music is Genetic, Jörn Bullerdiek and Christine Submuth for a discussion on the subject of genetics and music. \nFree admission. Book will be available.\n\nBiographical Note:Jörn Bullerdiek is a human geneticist currently working as scientific advisor at the Genetic and Immunology Testing Laboratory, Alicante, Spain. He is also a committed supporter of interdisciplinary collaborations, such as the one on which this book is based.\nChristine Süßmuth studied Early Music at the University of Arts in Bremen, Germany. As a soloist and ensemble singer, she knows exactly what she is talking about when it comes to musical technique, music history, and the joy of making music.\nDo you know why Johann Sebastian Bach was considered light-fingered? Or what you could do with a lock of Mozart's hair if you had it? These questions could lead you to an ancient mystery: Why do humans enjoy producing musical notes, as Darwin put it? Is this ability literally in our DNA, and if so, what is it doing there? The authors sailed dangerously close to the Sirens' Rock and joined Orpheus in meeting the sinister creatures of the underworld. They traced the path of sound waves from their source to the listener's brain and analyzed the genealogy of the Bach family and the song of zebra finches. They visited \"Scarborough Fair\" to buy parsley, sage, rosemary, and thyme. Eventually, they took the ferry to the \"Isle of Capri,\" referencing Frank Sinatra and the many other singers who have covered that song. Overall, the result is an entertaining and informative analysis of what makes music so fascinating and how this fascination is reflected in our genes from ancient Egypt to the present day.",
+      "description": "Contributor(s): Bullerdiek, Jörn (Author) , Süßmuth, Christine (Author) , Grönemeyer, Dietrich (Foreword by) , Darwin, Sarah (Foreword by)\nWe are happy to welcome the author of Why Music is Genetic, Jörn Bullerdiek for a discussion on the subject of genetics and music. \n\nThe presentation will be with live musical examples by Baroque composers John Dowland, Francesca Caccini and Henry Purcell, performed by Julie Comparini (voice) and Seth Demspey (lute). Julie will replace Christine who unfortunately is unable to join us in December. \n\nJulie Comparini studied cognitive science and linguistics at the University of California-Berkeley and early music singing at the Hochschule für Künste in Bremen, Germany. As a multimedia singer and performer, she builds bridges between genres and disciplines.\nwww.juliecomparini.com/en/\n \nFree admission. Book will be available.\n Biographical Note:Jörn Bullerdiek is a human geneticist currently working as scientific advisor at the Genetic and Immunology Testing Laboratory, Alicante, Spain. He is also a committed supporter of interdisciplinary collaborations, such as the one on which this book is based.\nChristine Süßmuth studied Early Music at the University of Arts in Bremen, Germany. As a soloist and ensemble singer, she knows exactly what she is talking about when it comes to musical technique, music history, and the joy of making music.\nDo you know why Johann Sebastian Bach was considered light-fingered? Or what you could do with a lock of Mozart's hair if you had it? These questions could lead you to an ancient mystery: Why do humans enjoy producing musical notes, as Darwin put it? Is this ability literally in our DNA, and if so, what is it doing there? The authors sailed dangerously close to the Sirens' Rock and joined Orpheus in meeting the sinister creatures of the underworld. They traced the path of sound waves from their source to the listener's brain and analyzed the genealogy of the Bach family and the song of zebra finches. They visited \"Scarborough Fair\" to buy parsley, sage, rosemary, and thyme. Eventually, they took the ferry to the \"Isle of Capri,\" referencing Frank Sinatra and the many other singers who have covered that song. Overall, the result is an entertaining and informative analysis of what makes music so fascinating and how this fascination is reflected in our genes from ancient Egypt to the present day.",
       "url": "https://librairieresonance.com/en/blogs/evenements/discussion-why-music-is-genetic",
       "info_url": "https://librairieresonance.com/en/blogs/evenements/discussion-why-music-is-genetic",
       "status": "CONFIRMED",
@@ -192,10 +192,10 @@
       "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/fine-vibes-mic-open-mic-for-comedy-music-poetry-and-storytelling",
       "info_url": "https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-poetry-storytelling-tickets-2003566603646",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "e41dda74bc8ea8881b824f04@montreal-poetry-calendar": {
       "source_id": "2da5cfaa-df42-45c5-a8c0-fec13329764b",
@@ -206,10 +206,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/couronne-et-corset-livre-5-les-milles-visages-et-l-halloween-eternel",
       "info_url": "https://lepointdevente.com/billets/livrev",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "48b341b0d6e9a7ba64c7a399@montreal-poetry-calendar": {
       "source_id": "aa7417dc4c14f61d",
@@ -363,7 +363,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 20
+      "missing_runs": 21
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -377,7 +377,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 26
+      "missing_runs": 27
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -391,7 +391,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 48
+      "missing_runs": 49
     }
   }
 }

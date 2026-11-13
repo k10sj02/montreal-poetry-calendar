@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:ANDREW WESTHOLL: BORN TO BE WILD LAUNCH
 DTSTART;TZID=America/Toronto:20261112T190000
 DTEND;TZID=America/Toronto:20261112T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:48b341b0d6e9a7ba64c7a399@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:ANDREW WESTHOLL: BORN TO BE WILD LAUNCH What: Andrew Westholl 
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:CHIMERA OPEN MIC
 DTSTART;TZID=America/Toronto:20261112T190000
 DTEND;TZID=America/Toronto:20261112T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:a1d2613ef2250b8b774eb401@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:CHIMERA OPEN MIC What: An open mic has been spotted in NDG. Yo
@@ -49,7 +49,7 @@ SUMMARY:Fine Vibes Mic | Open Mic for Comedy\, Music\, Poetry & Storytelli
  ng
 DTSTART;TZID=America/Toronto:20261112T200000
 DTEND;TZID=America/Toronto:20261112T220000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:452249a613e524a267b4c769@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Eventbrite — Montréal directory. Data: Has Things
@@ -58,7 +58,7 @@ DESCRIPTION:Listed by Eventbrite — Montréal directory. Data: Has Things
  on: https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-p
  oetry-storytelling-tickets-2003566603646
 LOCATION:FineFineFine Café
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://www.eventbrite.ca/e/fine-vibes-mic-open-mic-for-comedy-music-p
  oetry-storytelling-tickets-2003566603646
 X-MONTREAL-LITERARY-SOURCE:has-things
@@ -68,7 +68,7 @@ SUMMARY:Couronne et corset: Livre 5: Les milles visages et l'halloween ét
  ernel!
 DTSTART;TZID=America/Toronto:20261112T210000
 DTEND;TZID=America/Toronto:20261112T230000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:e41dda74bc8ea8881b824f04@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -77,7 +77,7 @@ DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal
  halloween-eternel\nMore information: https://lepointdevente.com/billets/li
  vrev
 LOCATION:Cabaret Mado
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://lepointdevente.com/billets/livrev
 X-MONTREAL-LITERARY-SOURCE:has-things
 END:VEVENT
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:THE PIT PERIODICAL POST-EXPOZINE READING
 DTSTART;TZID=America/Toronto:20261114T190000
 DTEND;TZID=America/Toronto:20261114T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:b68321ae8dbddd77daf44239@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:THE PIT PERIODICAL POST-EXPOZINE READING What: Billed as the 
@@ -105,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:BLOODPAIX OPENMIC
 DTSTART;TZID=America/Toronto:20261114T200000
 DTEND;TZID=America/Toronto:20261114T220000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:07d620f1bbb8e345ea48fba9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BLOODPAIX OPENMIC What: A new open mic lands in the middle of 
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:ACCENT OPEN MIC
 DTSTART;TZID=America/Toronto:20261115T200000
 DTEND;TZID=America/Toronto:20261115T220000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:947fc6f029e75b6b37f0b417@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:ACCENT OPEN MIC What: Popular twice monthly bilingual open mic
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Finale gala du Grand Slam International de Montréal\, 3e édition
 DTSTART;TZID=America/Toronto:20261115T200000
 DTEND;TZID=America/Toronto:20261115T220000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:3b5460ab0930156c8cf78c2f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:THRESHOLDS LAUNCH: MCSWAY POETRY
 DTSTART;TZID=America/Toronto:20261116T160000
 DTEND;TZID=America/Toronto:20261116T180000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:693e2fe3506766341fa51234@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:THRESHOLDS LAUNCH: MCSWAY POETRY What: The McGill lit collecti
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:BOOK TALK: ANXIETYLAND BY GEMMA CORRELL
 DTSTART;TZID=America/Toronto:20261116T190000
 DTEND;TZID=America/Toronto:20261116T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:165dd421a38c8d54dd2f768a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BOOK TALK: ANXIETYLAND BY GEMMA CORRELL What: Time to pop thos
@@ -203,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN\, WALKING LAUNCH
 DTSTART;TZID=America/Toronto:20261118T170000
 DTEND;TZID=America/Toronto:20261118T190000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:373a28fabf057f1c9977a322@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN\, WALKING LAUNCH What: 
@@ -223,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261118T173000
 DTEND;TZID=America/Toronto:20261118T193000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:519d167ec026e90b84b881c3@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -240,7 +240,7 @@ SUMMARY:Causerie - Série Microsillon - L'heptade de Jean-Christophe Laure
  nce
 DTSTART;TZID=America/Toronto:20261118T180000
 DTEND;TZID=America/Toronto:20261118T200000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle 
@@ -263,7 +263,7 @@ SUMMARY:QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTICE LA
  UNCH
 DTSTART;TZID=America/Toronto:20261118T180000
 DTEND;TZID=America/Toronto:20261118T200000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:4588f9e08668c71c6e14d468@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTIC
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence - Homère\, poète de la littérature occidentale
 DTSTART;TZID=America/Toronto:20261119T190000
 DTEND;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:425d4f69b77ecd4dcc12e811@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -299,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261119T190000
 DTEND;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:68f6ff4429627a81b03de4cd@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Nous sommes ravis d'accueillir une figure marquante de la musi
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261121T190000
 DTEND;TZID=America/Toronto:20261121T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:fc9dda1e2dbf688c0695908f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 SUMMARY:STORYTELLING WITH NDG AUTHORS
 DTSTART;TZID=America/Toronto:20261122T160000
 DTEND;TZID=America/Toronto:20261122T180000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:dd13822b076b0611b8619ff4@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:STORYTELLING WITH NDG AUTHORS What: Some local youths will sha
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261124T183000
 DTEND;TZID=America/Toronto:20261124T203000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:a730471d5c6057f178288eb0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:lecture publique de la Guerre des Tuques
 DTSTART;TZID=America/Toronto:20261202T210000
 DTEND;TZID=America/Toronto:20261202T230000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:12756f08bc76bae5de15d6eb@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence - Homère\, poète de la littérature occidentale
 DTSTART;TZID=America/Toronto:20261203T190000
 DTEND;TZID=America/Toronto:20261203T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:8c38e6c2f0012386c1bcc733@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -436,13 +436,13 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261204T133000
 DTEND;TZID=America/Toronto:20261204T153000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:c9702b129f3cdc73a8b42e8d@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
-DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
- gs (hasthings.com).\n\nListing: https://montreal.hasthings.com/events/club
- -de-lecture-2026-10-02\nMore information: https://lepointdevente.com/bille
- ts/ev3260904001
+DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
+ (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing: https://montrea
+ l.hasthings.com/events/club-de-lecture-2026-10-02\nMore information: https
+ ://lepointdevente.com/billets/ev3260904001
 LOCATION:Bibliothèque Saul-Bellow
 STATUS:CONFIRMED
 URL:https://lepointdevente.com/billets/ev3260904001
@@ -452,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Écrire un texte littéraire
 DTSTART;TZID=America/Toronto:20261205T101500
 DTEND;TZID=America/Toronto:20261205T121500
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:0b6204a217663af527ea8ac0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -468,38 +468,45 @@ BEGIN:VEVENT
 SUMMARY:Discussion - Why Music is Genetic
 DTSTART;TZID=America/Toronto:20261211T190000
 DTEND;TZID=America/Toronto:20261211T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:0f96a33d296e07a19a786341@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Contributor(s): Bullerdiek\, Jörn (Author) \, Süßmuth\, Chr
  istine (Author) \, Grönemeyer\, Dietrich (Foreword by) \, Darwin\, Sarah 
- (Foreword by)\nWe are happy to welcome the authors of Why Music is Genetic
- \, Jörn Bullerdiek and Christine Submuth for a discussion on the subject 
- of genetics and music. \nFree admission. Book will be available.\n\nBiogr
- aphical Note:Jörn Bullerdiek is a human geneticist currently working as s
- cientific advisor at the Genetic and Immunology Testing Laboratory\, Alica
- nte\, Spain. He is also a committed supporter of interdisciplinary collabo
- rations\, such as the one on which this book is based.\nChristine Süßmut
- h studied Early Music at the University of Arts in Bremen\, Germany. As a 
- soloist and ensemble singer\, she knows exactly what she is talking about 
- when it comes to musical technique\, music history\, and the joy of making
-  music.\nDo you know why Johann Sebastian Bach was considered light-finger
- ed? Or what you could do with a lock of Mozart's hair if you had it? These
-  questions could lead you to an ancient mystery: Why do humans enjoy produ
- cing musical notes\, as Darwin put it? Is this ability literally in our DN
- A\, and if so\, what is it doing there? The authors sailed dangerously clo
- se to the Sirens' Rock and joined Orpheus in meeting the sinister creature
- s of the underworld. They traced the path of sound waves from their source
-  to the listener's brain and analyzed the genealogy of the Bach family and
-  the song of zebra finches. They visited "Scarborough Fair" to buy parsley
- \, sage\, rosemary\, and thyme. Eventually\, they took the ferry to the "I
- sle of Capri\," referencing Frank Sinatra and the many other singers who h
- ave covered that song. Overall\, the result is an entertaining and informa
- tive analysis of what makes music so fascinating and how this fascination 
- is reflected in our genes from ancient Egypt to the present day.\n\nListin
- g: https://librairieresonance.com/en/blogs/evenements/discussion-why-music
- -is-genetic\nMore information: https://librairieresonance.com/en/blogs/eve
- nements/discussion-why-music-is-genetic
+ (Foreword by)\nWe are happy to welcome the author of Why Music is Genetic
+ \, Jörn Bullerdiek for a discussion on the subject of genetics and music.
+  \n\nThe presentation will be with live musical examples by Baroque compo
+ sers John Dowland\, Francesca Caccini and Henry Purcell\, performed by Jul
+ ie Comparini (voice) and Seth Demspey (lute). Julie will replace Christine
+  who unfortunately is unable to join us in December. \n\nJulie Comparini 
+ studied cognitive science and linguistics at the University of California-
+ Berkeley and early music singing at the Hochschule für Künste in Bremen
+ \, Germany. As a multimedia singer and performer\, she builds bridges betw
+ een genres and disciplines.\nwww.juliecomparini.com/en/\n \nFree admissio
+ n. Book will be available.\n Biographical Note:Jörn Bullerdiek is a human
+  geneticist currently working as scientific advisor at the Genetic and Imm
+ unology Testing Laboratory\, Alicante\, Spain. He is also a committed supp
+ orter of interdisciplinary collaborations\, such as the one on which this 
+ book is based.\nChristine Süßmuth studied Early Music at the University 
+ of Arts in Bremen\, Germany. As a soloist and ensemble singer\, she knows 
+ exactly what she is talking about when it comes to musical technique\, mus
+ ic history\, and the joy of making music.\nDo you know why Johann Sebastia
+ n Bach was considered light-fingered? Or what you could do with a lock of 
+ Mozart's hair if you had it? These questions could lead you to an ancient 
+ mystery: Why do humans enjoy producing musical notes\, as Darwin put it? I
+ s this ability literally in our DNA\, and if so\, what is it doing there? 
+ The authors sailed dangerously close to the Sirens' Rock and joined Orpheu
+ s in meeting the sinister creatures of the underworld. They traced the pat
+ h of sound waves from their source to the listener's brain and analyzed th
+ e genealogy of the Bach family and the song of zebra finches. They visited
+  "Scarborough Fair" to buy parsley\, sage\, rosemary\, and thyme. Eventual
+ ly\, they took the ferry to the "Isle of Capri\," referencing Frank Sinatr
+ a and the many other singers who have covered that song. Overall\, the res
+ ult is an entertaining and informative analysis of what makes music so fas
+ cinating and how this fascination is reflected in our genes from ancient E
+ gypt to the present day.\n\nListing: https://librairieresonance.com/en/blo
+ gs/evenements/discussion-why-music-is-genetic\nMore information: https://l
+ ibrairieresonance.com/en/blogs/evenements/discussion-why-music-is-genetic
 LOCATION:Librairie Résonance Bookstore\, 40 Beaubien East\, Montréal
 STATUS:CONFIRMED
 URL:https://librairieresonance.com/en/blogs/evenements/discussion-why-musi
@@ -510,7 +517,7 @@ BEGIN:VEVENT
 SUMMARY:Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT
 DTSTART;TZID=America/Toronto:20261213T140000
 DTEND;TZID=America/Toronto:20261213T160000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -526,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261215T183000
 DTEND;TZID=America/Toronto:20261215T203000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:f4b2fe95de3d3650554ab296@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -542,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261216T173000
 DTEND;TZID=America/Toronto:20261216T193000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:46e5c878106dfcb30e4a54c9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -558,7 +565,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20270121T190000
 DTEND;TZID=America/Toronto:20270121T210000
-DTSTAMP:20261113T071930Z
+DTSTAMP:20261113T200348Z
 UID:9777f940c8212553d08b0f4e@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
