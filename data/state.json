@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T02:02:18.995574-05:00",
+  "updated": "2026-11-14T13:29:57.720403-05:00",
   "events": {
     "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
       "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
@@ -307,7 +307,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 22
+      "missing_runs": 23
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -321,7 +321,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 28
+      "missing_runs": 29
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -335,7 +335,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 50
+      "missing_runs": 51
     }
   }
 }
