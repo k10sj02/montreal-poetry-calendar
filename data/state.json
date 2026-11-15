@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:13:03.521750-05:00",
+  "updated": "2026-11-15T14:07:12.196238-05:00",
   "events": {
     "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
       "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
@@ -57,6 +57,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
+      "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
+      "title": "Initiation aux livres numériques sur Ipad et tablettes Android",
+      "start": "2026-11-22T14:00:00-05:00",
+      "end": "2026-11-22T16:00:00-05:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/initiation-aux-livres-numeriques-sur-ipad-et-tablettes-android",
+      "info_url": "https://lepointdevente.com/billets/p8u261122001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -94,20 +108,6 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
-      "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
-      "title": "Écrire un texte littéraire",
-      "start": "2026-12-05T10:15:00-05:00",
-      "end": "2026-12-05T12:15:00-05:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
-      "info_url": "https://lepointdevente.com/billets/p8u261003001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -182,6 +182,20 @@
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
       "missing_runs": 0
+    },
+    "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
+      "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
+      "title": "Écrire un texte littéraire",
+      "start": "2026-12-05T10:15:00-05:00",
+      "end": "2026-12-05T12:15:00-05:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
+      "info_url": "https://lepointdevente.com/billets/p8u261003001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
     },
     "b68321ae8dbddd77daf44239@montreal-poetry-calendar": {
       "source_id": "1e1f53ba4e4a364b",
@@ -307,7 +321,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 25
+      "missing_runs": 26
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -321,7 +335,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -335,7 +349,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 53
+      "missing_runs": 54
     }
   }
 }
