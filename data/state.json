@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-15T14:07:12.196238-05:00",
+  "updated": "2026-11-16T02:18:12.450925-05:00",
   "events": {
-    "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
-      "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
-      "title": "Finale gala du Grand Slam International de Montréal, 3e édition",
-      "start": "2026-11-15T20:00:00-05:00",
-      "end": "2026-11-15T22:00:00-05:00",
-      "venue": "Cabaret Lion d'Or",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/finale-gala-du-grand-slam-international-de-montreal-3e-edition",
-      "info_url": "https://lepointdevente.com/billets/clo260602002",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
       "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
       "title": "Des livres et des tasses",
@@ -183,6 +169,20 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "3b5460ab0930156c8cf78c2f@montreal-poetry-calendar": {
+      "source_id": "b0c6512b-989a-4fa1-9870-2e2c7fce1d3f",
+      "title": "Finale gala du Grand Slam International de Montréal, 3e édition",
+      "start": "2026-11-15T20:00:00-05:00",
+      "end": "2026-11-15T22:00:00-05:00",
+      "venue": "Cabaret Lion d'Or",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/finale-gala-du-grand-slam-international-de-montreal-3e-edition",
+      "info_url": "https://lepointdevente.com/billets/clo260602002",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
       "title": "Écrire un texte littéraire",
@@ -192,38 +192,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
       "info_url": "https://lepointdevente.com/billets/p8u261003001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
-    },
-    "b68321ae8dbddd77daf44239@montreal-poetry-calendar": {
-      "source_id": "1e1f53ba4e4a364b",
-      "title": "THE PIT PERIODICAL POST-EXPOZINE READING",
-      "start": "2026-11-14T19:00:00-05:00",
-      "end": "2026-11-14T21:00:00-05:00",
-      "venue": "La Calle—Pub zéro-déchet (6839 Rue St-Hubert).",
-      "description": "THE PIT PERIODICAL POST-EXPOZINE READING What: Billed as the “official” post-Expozine reading, someone named Mariana will be reading at this bar. There is only one way besides DMing them to find out who that is. Where: La Calle—Pub zéro-déchet (6839 Rue St-Hubert). When: 7pm. Who: The mononymous “Mariana.” How Much: Free ( Link ).",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/DfKjSlYFERQ/?img_index=1",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "07d620f1bbb8e345ea48fba9@montreal-poetry-calendar": {
-      "source_id": "c21c301589bd1cc8",
-      "title": "BLOODPAIX OPENMIC",
-      "start": "2026-11-14T20:00:00-05:00",
-      "end": "2026-11-14T22:00:00-05:00",
-      "venue": "DM Abraxia for address (see link).",
-      "description": "BLOODPAIX OPENMIC What: A new open mic lands in the middle of hell like the angel on the second Judas Priest album cover . The aesthetics are gothic, the location is the host’s apartment, the vibe seems no-nonsense/all nonsense. Let’s see how it goes. Where: DM Abraxia for address (see link). When: 8pm. Who: Whoever’s got the balls to go to NDG, plus Nadia Bizness and Joe Lalande. How much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://i.scdn.co/image/ab67616d00001e025319553a5a4c482208a17368",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 2
     },
     "947fc6f029e75b6b37f0b417@montreal-poetry-calendar": {
       "source_id": "22bb45b01988e6a7",
@@ -321,7 +293,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 26
+      "missing_runs": 27
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -335,7 +307,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 32
+      "missing_runs": 33
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -349,7 +321,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 54
+      "missing_runs": 55
     }
   }
 }
