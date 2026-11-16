@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:18:12.450925-05:00",
+  "updated": "2026-11-16T17:31:55.769611-05:00",
   "events": {
     "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
       "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
@@ -178,10 +178,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/finale-gala-du-grand-slam-international-de-montreal-3e-edition",
       "info_url": "https://lepointdevente.com/billets/clo260602002",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
@@ -195,7 +195,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 3
     },
     "947fc6f029e75b6b37f0b417@montreal-poetry-calendar": {
       "source_id": "22bb45b01988e6a7",
@@ -293,7 +293,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 27
+      "missing_runs": 28
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -307,7 +307,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 33
+      "missing_runs": 34
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -321,7 +321,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 55
+      "missing_runs": 56
     }
   }
 }
