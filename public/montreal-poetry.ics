@@ -7,47 +7,10 @@ X-WR-CALNAME:Montréal Poetry & Literature
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:ACCENT OPEN MIC
-DTSTART;TZID=America/Toronto:20261115T200000
-DTEND;TZID=America/Toronto:20261115T220000
-DTSTAMP:20261116T223155Z
-UID:947fc6f029e75b6b37f0b417@montreal-poetry-calendar
-CATEGORIES:Poetry & Literature
-DESCRIPTION:ACCENT OPEN MIC What: Popular twice monthly bilingual open mic
- —theme is “Slam(med).” There’s never been a better time to shout o
- ut numerical scores at random open micers than this. (Computer\, play that
-  weird old “Slam Jam” meme video .) Where: Bar le Record (7622 rue Sai
- nt-Hubert). When: 8 to 10pm. Who: Whoever has the balls\, plus Lucia de Lu
- ca and Francois Rioux. How Much: Free. (Link TK)\n\nListing: https://www.d
- iscordiareview.com/p/montreal-literary-events-calendar-november-2026\nMore
-  information: https://www.youtube.com/watch?v=Y-dMSstLDqM
-LOCATION:Bar le Record (7622 rue Saint-Hubert).
-STATUS:CONFIRMED
-URL:https://www.youtube.com/watch?v=Y-dMSstLDqM
-X-MONTREAL-LITERARY-SOURCE:jays-list
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finale gala du Grand Slam International de Montréal\, 3e édition
-DTSTART;TZID=America/Toronto:20261115T200000
-DTEND;TZID=America/Toronto:20261115T220000
-DTSTAMP:20261116T223155Z
-UID:3b5460ab0930156c8cf78c2f@montreal-poetry-calendar
-CATEGORIES:Poetry & Literature
-DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
- (weeks 4-6). Data: Has Things (hasthings.com).\n\nListing: https://montrea
- l.hasthings.com/events/finale-gala-du-grand-slam-international-de-montreal
- -3e-edition\nMore information: https://lepointdevente.com/billets/clo26060
- 2002
-LOCATION:Cabaret Lion d'Or
-STATUS:CANCELLED
-URL:https://lepointdevente.com/billets/clo260602002
-X-MONTREAL-LITERARY-SOURCE:has-things
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:THRESHOLDS LAUNCH: MCSWAY POETRY
 DTSTART;TZID=America/Toronto:20261116T160000
 DTEND;TZID=America/Toronto:20261116T180000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:693e2fe3506766341fa51234@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:THRESHOLDS LAUNCH: MCSWAY POETRY What: The McGill lit collecti
@@ -68,7 +31,7 @@ BEGIN:VEVENT
 SUMMARY:BOOK TALK: ANXIETYLAND BY GEMMA CORRELL
 DTSTART;TZID=America/Toronto:20261116T190000
 DTEND;TZID=America/Toronto:20261116T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:165dd421a38c8d54dd2f768a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:BOOK TALK: ANXIETYLAND BY GEMMA CORRELL What: Time to pop thos
@@ -87,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN\, WALKING LAUNCH
 DTSTART;TZID=America/Toronto:20261118T170000
 DTEND;TZID=America/Toronto:20261118T190000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:373a28fabf057f1c9977a322@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN\, WALKING LAUNCH What: 
@@ -107,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261118T173000
 DTEND;TZID=America/Toronto:20261118T193000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:519d167ec026e90b84b881c3@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -124,7 +87,7 @@ SUMMARY:Causerie - Série Microsillon - L'heptade de Jean-Christophe Laure
  nce
 DTSTART;TZID=America/Toronto:20261118T180000
 DTEND;TZID=America/Toronto:20261118T200000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle 
@@ -147,7 +110,7 @@ SUMMARY:QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTICE LA
  UNCH
 DTSTART;TZID=America/Toronto:20261118T180000
 DTEND;TZID=America/Toronto:20261118T200000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:4588f9e08668c71c6e14d468@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTIC
@@ -167,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence - Homère\, poète de la littérature occidentale
 DTSTART;TZID=America/Toronto:20261119T190000
 DTEND;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:425d4f69b77ecd4dcc12e811@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -183,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261119T190000
 DTEND;TZID=America/Toronto:20261119T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:68f6ff4429627a81b03de4cd@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Nous sommes ravis d'accueillir une figure marquante de la musi
@@ -216,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261121T190000
 DTEND;TZID=America/Toronto:20261121T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:fc9dda1e2dbf688c0695908f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
@@ -251,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Initiation aux livres numériques sur Ipad et tablettes Android
 DTSTART;TZID=America/Toronto:20261122T140000
 DTEND;TZID=America/Toronto:20261122T160000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:8e8d30e929106268fec57eda@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -267,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:STORYTELLING WITH NDG AUTHORS
 DTSTART;TZID=America/Toronto:20261122T160000
 DTEND;TZID=America/Toronto:20261122T180000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:dd13822b076b0611b8619ff4@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:STORYTELLING WITH NDG AUTHORS What: Some local youths will sha
@@ -288,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261124T183000
 DTEND;TZID=America/Toronto:20261124T203000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:a730471d5c6057f178288eb0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -304,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:lecture publique de la Guerre des Tuques
 DTSTART;TZID=America/Toronto:20261202T210000
 DTEND;TZID=America/Toronto:20261202T230000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:12756f08bc76bae5de15d6eb@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -320,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence - Homère\, poète de la littérature occidentale
 DTSTART;TZID=America/Toronto:20261203T190000
 DTEND;TZID=America/Toronto:20261203T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:8c38e6c2f0012386c1bcc733@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -336,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261204T133000
 DTEND;TZID=America/Toronto:20261204T153000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:c9702b129f3cdc73a8b42e8d@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -352,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Écrire un texte littéraire
 DTSTART;TZID=America/Toronto:20261205T101500
 DTEND;TZID=America/Toronto:20261205T121500
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:0b6204a217663af527ea8ac0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -368,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Discussion - Why Music is Genetic
 DTSTART;TZID=America/Toronto:20261211T190000
 DTEND;TZID=America/Toronto:20261211T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:0f96a33d296e07a19a786341@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Contributor(s): Bullerdiek\, Jörn (Author) \, Süßmuth\, Chr
@@ -417,7 +380,7 @@ BEGIN:VEVENT
 SUMMARY:Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT
 DTSTART;TZID=America/Toronto:20261213T140000
 DTEND;TZID=America/Toronto:20261213T160000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -433,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261215T183000
 DTEND;TZID=America/Toronto:20261215T203000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:f4b2fe95de3d3650554ab296@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -449,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261216T173000
 DTEND;TZID=America/Toronto:20261216T193000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:46e5c878106dfcb30e4a54c9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -465,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20270121T190000
 DTEND;TZID=America/Toronto:20270121T210000
-DTSTAMP:20261116T223155Z
+DTSTAMP:20261117T083043Z
 UID:9777f940c8212553d08b0f4e@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
