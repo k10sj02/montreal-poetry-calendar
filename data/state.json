@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:30:43.000532-05:00",
+  "updated": "2026-11-17T16:20:31.362944-05:00",
   "events": {
     "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
       "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
@@ -66,6 +66,20 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture",
       "info_url": "https://lepointdevente.com/billets/ut9260929001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "fdc5e895a12c3d2914faa663@montreal-poetry-calendar": {
+      "source_id": "9f225ce3-d121-436a-a3b9-47467bc19b0d",
+      "title": "Chhannavath Lmut - Une Brassée de Poésie et Micro Ouvert",
+      "start": "2026-11-27T19:30:00-05:00",
+      "end": "2026-11-27T21:30:00-05:00",
+      "venue": "La Brassée",
+      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/chhannavath-lmut-une-brassee-de-poesie-et-micro-ouvert",
+      "info_url": "https://www.eventbrite.ca/e/chhannavath-lmut-une-brassee-de-poesie-et-micro-ouvert-tickets-1993762306730",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -181,21 +195,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 4
-    },
-    "693e2fe3506766341fa51234@montreal-poetry-calendar": {
-      "source_id": "859850dacd2d6d64",
-      "title": "THRESHOLDS LAUNCH: MCSWAY POETRY",
-      "start": "2026-11-16T16:00:00-05:00",
-      "end": "2026-11-16T18:00:00-05:00",
-      "venue": "Bar le Sparrow (5322 boul. St-Laurent).",
-      "description": "THRESHOLDS LAUNCH: MCSWAY POETRY What: The McGill lit collective launches a new anthology called Vestibules , or rather Doorways , or uh Entrances , or is it, shit, hold on, I’ve got this written down somewhere… Where: Bar le Sparrow (5322 boul. St-Laurent). When: 4 to 8pm. Who: Oh all sorts. How much: Free, but RSVP required. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://docs.google.com/forms/d/e/1FAIpQLSdVqODBiALw7NHr0ueN-l2v5JFTlo4QYxDh3Ig_GCjm4ikzyQ/viewform",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 5
     },
     "165dd421a38c8d54dd2f768a@montreal-poetry-calendar": {
       "source_id": "739e84bb7db29044",
@@ -265,7 +265,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 29
+      "missing_runs": 30
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -279,7 +279,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 35
+      "missing_runs": 36
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -293,7 +293,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 57
+      "missing_runs": 58
     }
   }
 }
