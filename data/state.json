@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T16:20:31.362944-05:00",
+  "updated": "2026-11-18T02:57:18.149680-05:00",
   "events": {
     "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
       "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
@@ -195,21 +195,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 5
-    },
-    "165dd421a38c8d54dd2f768a@montreal-poetry-calendar": {
-      "source_id": "739e84bb7db29044",
-      "title": "BOOK TALK: ANXIETYLAND BY GEMMA CORRELL",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T21:00:00-05:00",
-      "venue": "Argo (1841-A Rue Sainte-Catherine O).",
-      "description": "BOOK TALK: ANXIETYLAND BY GEMMA CORRELL What: Time to pop those prescription pills and dissociate completely at this chat with British illustrator and cartoonist Gemma Correll. Where: Argo (1841-A Rue Sainte-Catherine O). When: 7 to 9pm. Who: Correll. How much: Free, but RSVP recommended. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://argobookshop.ca/events/51945",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 6
     },
     "373a28fabf057f1c9977a322@montreal-poetry-calendar": {
       "source_id": "7092bac92a2794d6",
@@ -265,7 +251,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 30
+      "missing_runs": 31
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -279,7 +265,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 36
+      "missing_runs": 37
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -293,7 +279,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 58
+      "missing_runs": 59
     }
   }
 }
