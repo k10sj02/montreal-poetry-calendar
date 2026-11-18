@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:57:18.149680-05:00",
+  "updated": "2026-11-18T15:54:19.891721-05:00",
   "events": {
     "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
       "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
@@ -26,20 +26,6 @@
       "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
       "status": "CONFIRMED",
       "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
@@ -80,20 +66,6 @@
       "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/chhannavath-lmut-une-brassee-de-poesie-et-micro-ouvert",
       "info_url": "https://www.eventbrite.ca/e/chhannavath-lmut-une-brassee-de-poesie-et-micro-ouvert-tickets-1993762306730",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
-      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-12-03T19:00:00-05:00",
-      "end": "2026-12-03T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -183,6 +155,34 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
+    "8c38e6c2f0012386c1bcc733@montreal-poetry-calendar": {
+      "source_id": "4564ea08-bc33-4cbe-935a-9005a83a468d",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-12-03T19:00:00-05:00",
+      "end": "2026-12-03T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 1
+    },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
       "title": "Écrire un texte littéraire",
@@ -195,7 +195,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 6
+      "missing_runs": 7
     },
     "373a28fabf057f1c9977a322@montreal-poetry-calendar": {
       "source_id": "7092bac92a2794d6",
@@ -251,7 +251,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 31
+      "missing_runs": 32
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -265,7 +265,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 37
+      "missing_runs": 38
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -279,7 +279,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 59
+      "missing_runs": 60
     }
   }
 }
