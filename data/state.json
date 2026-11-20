@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:46:31.235915-05:00",
+  "updated": "2026-11-20T15:44:13.834939-05:00",
   "events": {
     "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
       "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
@@ -150,10 +150,10 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
       "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
@@ -167,7 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 10
+      "missing_runs": 11
     },
     "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
       "source_id": "18569b82468369d3",
@@ -195,7 +195,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 35
+      "missing_runs": 36
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -209,7 +209,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 41
+      "missing_runs": 42
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -223,7 +223,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 63
+      "missing_runs": 64
     }
   }
 }
