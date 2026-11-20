@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-19T15:59:07.687275-05:00",
+  "updated": "2026-11-20T02:46:31.235915-05:00",
   "events": {
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
       "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
       "title": "Initiation aux livres numériques sur Ipad et tablettes Android",
@@ -155,33 +141,19 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "4f8b97a29b20b2cb531dd39a@montreal-poetry-calendar": {
-      "source_id": "causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
-      "title": "Causerie - Série Microsillon - L'heptade de Jean-Christophe Laurence",
-      "start": "2026-11-18T18:00:00-05:00",
-      "end": "2026-11-18T20:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Venez rencontrer l'auteur du bouquin l'heptade de la nouvelle série parue chez Boréal: Microsillon.\nPour l'occasion, Jean-Christophe Laurence sera en discussion avec Dominic Tardif, directeur de la collection.\nUne discussion assurément fascinante sur la réalisation de cet ouvrage et aussi la naissance d'une nouvelle collection.\n- Gratuit\nC'est un rendez-vous!",
-      "url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/causerie-serie-microsillon-lheptade-de-jean-christophe-laurence",
+    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
+      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
+      "title": "Conférence - Homère, poète de la littérature occidentale",
+      "start": "2026-11-19T19:00:00-05:00",
+      "end": "2026-11-19T21:00:00-05:00",
+      "venue": "Pointe-à-Callière",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
+      "info_url": "https://lepointdevente.com/billets/gsw261119001",
       "status": "CONFIRMED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 1
-    },
-    "519d167ec026e90b84b881c3@montreal-poetry-calendar": {
-      "source_id": "18934a99-5656-40ec-aeb8-ea285e87d664",
-      "title": "Des livres et des tasses",
-      "start": "2026-11-18T17:30:00-05:00",
-      "end": "2026-11-18T19:30:00-05:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/des-livres-et-des-tasses-2026-10-21",
-      "info_url": "https://lepointdevente.com/billets/p8u260916002",
-      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
+      "missing_runs": 1
     },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
@@ -195,35 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 9
-    },
-    "373a28fabf057f1c9977a322@montreal-poetry-calendar": {
-      "source_id": "7092bac92a2794d6",
-      "title": "ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN, WALKING LAUNCH",
-      "start": "2026-11-18T17:00:00-05:00",
-      "end": "2026-11-18T19:00:00-05:00",
-      "venue": "Librarie Drawn & Quarterly (176 rue Bernard O).",
-      "description": "ZAHRA EBRAHIM & ERICA ALLEN-KIM: WOMEN, WALKING LAUNCH What: You’ve read Women Talking , now get ready for its extremely unauthorized sequel. (Well, semi-unauthorized; Miriam Toews is in this anthology of reflections on walking-while-womaning.) Where: Librarie Drawn & Quarterly (176 rue Bernard O). When: 5 to 7pm. Who: Editor Zahra Ebrahim and contributor Erica Allen-Kim. How Much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.facebook.com/events/1084625954411689",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
-    "4588f9e08668c71c6e14d468@montreal-poetry-calendar": {
-      "source_id": "c787027351501f00",
-      "title": "QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTICE LAUNCH",
-      "start": "2026-11-18T18:00:00-05:00",
-      "end": "2026-11-18T20:00:00-05:00",
-      "venue": "Librarie l’Euguelionne (1426 rue Beaudry).",
-      "description": "QUEER JOY AND FAILURES IN QUEER AND TRANS RESEARCH AND PRACTICE LAUNCH What: Just to be clear, the joy? It’s queer. The research and practice? It’s queer and trans. There will be a collage-making workshop after the readings. Where: Librarie l’Euguelionne (1426 rue Beaudry). When: 6 to 8pm. Who: Various contributors, and whoever’s got the gluesticks. How Much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.instagram.com/p/DfCwqrelAN5/?img_index=1",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 10
     },
     "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
       "source_id": "18569b82468369d3",
@@ -251,7 +195,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 34
+      "missing_runs": 35
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -265,7 +209,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 40
+      "missing_runs": 41
     },
     "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
       "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
@@ -279,7 +223,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 62
+      "missing_runs": 63
     }
   }
 }
