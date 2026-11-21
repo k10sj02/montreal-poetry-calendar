@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20261121T190000
 DTEND;TZID=America/Toronto:20261121T210000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:fc9dda1e2dbf688c0695908f@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
@@ -45,7 +45,7 @@ BEGIN:VEVENT
 SUMMARY:Initiation aux livres numériques sur Ipad et tablettes Android
 DTSTART;TZID=America/Toronto:20261122T140000
 DTEND;TZID=America/Toronto:20261122T160000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:8e8d30e929106268fec57eda@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal. Data: Has Things (hasthing
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:STORYTELLING WITH NDG AUTHORS
 DTSTART;TZID=America/Toronto:20261122T160000
 DTEND;TZID=America/Toronto:20261122T180000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:dd13822b076b0611b8619ff4@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:STORYTELLING WITH NDG AUTHORS What: Some local youths will sha
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261124T183000
 DTEND;TZID=America/Toronto:20261124T203000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:a730471d5c6057f178288eb0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Chhannavath Lmut - Une Brassée de Poésie et Micro Ouvert
 DTSTART;TZID=America/Toronto:20261127T193000
 DTEND;TZID=America/Toronto:20261127T213000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:fdc5e895a12c3d2914faa663@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Eventbrite — Montréal directory. Data: Has Things
@@ -116,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:lecture publique de la Guerre des Tuques
 DTSTART;TZID=America/Toronto:20261202T210000
 DTEND;TZID=America/Toronto:20261202T230000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:12756f08bc76bae5de15d6eb@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence - Homère\, poète de la littérature occidentale
 DTSTART;TZID=America/Toronto:20261203T190000
 DTEND;TZID=America/Toronto:20261203T210000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:8c38e6c2f0012386c1bcc733@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261204T133000
 DTEND;TZID=America/Toronto:20261204T153000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:c9702b129f3cdc73a8b42e8d@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal\, Lepointdevente Montréal 
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Écrire un texte littéraire
 DTSTART;TZID=America/Toronto:20261205T101500
 DTEND;TZID=America/Toronto:20261205T121500
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:0b6204a217663af527ea8ac0@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Discussion - Why Music is Genetic
 DTSTART;TZID=America/Toronto:20261211T190000
 DTEND;TZID=America/Toronto:20261211T210000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:0f96a33d296e07a19a786341@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Contributor(s): Bullerdiek\, Jörn (Author) \, Süßmuth\, Chr
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT
 DTSTART;TZID=America/Toronto:20261213T140000
 DTEND;TZID=America/Toronto:20261213T160000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -245,7 +245,7 @@ BEGIN:VEVENT
 SUMMARY:Club de lecture
 DTSTART;TZID=America/Toronto:20261215T183000
 DTEND;TZID=America/Toronto:20261215T203000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:f4b2fe95de3d3650554ab296@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY:Des livres et des tasses
 DTSTART;TZID=America/Toronto:20261216T173000
 DTEND;TZID=America/Toronto:20261216T193000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:46e5c878106dfcb30e4a54c9@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Thin
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...
 DTSTART;TZID=America/Toronto:20270121T190000
 DTEND;TZID=America/Toronto:20270121T210000
-DTSTAMP:20261121T074317Z
+DTSTAMP:20261121T194753Z
 UID:9777f940c8212553d08b0f4e@montreal-poetry-calendar
 CATEGORIES:Poetry & Literature
 DESCRIPTION:Notez que la session aura lieu le 21 janvier (et non le 19 nov
