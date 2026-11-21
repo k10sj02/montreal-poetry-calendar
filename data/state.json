@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:44:13.834939-05:00",
+  "updated": "2026-11-21T02:43:17.872164-05:00",
   "events": {
     "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
       "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
@@ -141,20 +141,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "425d4f69b77ecd4dcc12e811@montreal-poetry-calendar": {
-      "source_id": "d81d9bfd-8a44-4a52-955e-97e52b000fc5",
-      "title": "Conférence - Homère, poète de la littérature occidentale",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Pointe-à-Callière",
-      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/conference-homere-sous-l-%C5%93il-des-philosophes",
-      "info_url": "https://lepointdevente.com/billets/gsw261119001",
-      "status": "CANCELLED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 2
-    },
     "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
       "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
       "title": "Écrire un texte littéraire",
@@ -167,7 +153,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 11
+      "missing_runs": 12
     },
     "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
       "source_id": "18569b82468369d3",
@@ -195,7 +181,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 36
+      "missing_runs": 37
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -209,21 +195,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 42
-    },
-    "68f6ff4429627a81b03de4cd@montreal-poetry-calendar": {
-      "source_id": "session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "title": "SESSION REWIND - POIRIER IL N'Y A PAS DE SUD...",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T21:00:00-05:00",
-      "venue": "Librairie Résonance Bookstore, 40 Beaubien East, Montréal",
-      "description": "Nous sommes ravis d'accueillir une figure marquante de la musique électronique au Québec lors du 25ème anniversaire de la sortie de son album Il n'y a que le sud...\nFigure incontournable de Montréal, Poirier s’est imposé par une approche créative et éclectique de la production électronique. Des atmosphères lo-fi scintillantes de ses débuts aux rythmes entraînants inspirés du soca dans ses projets plus récents, sa signature musicale puise dans une vaste diversité de traditions sonores, affirmant sa place sur la scène internationale.\nAvec plus de 25 ans de parcours, le DJ, producteur et auteur-compositeur a construit une discographie importante sur des labels tels que Ninja Tune et Wonderwheel Recordings. Il a également signé plus de 55 remix officiels, son approche recherchée ayant été sollicitée par des artistes comme Gotan Project, Gilles Peterson, Guts, Salif Keita, Nickodemus, João Selva, Flavia Coelho, Popcaan ou Busy Signal, entre autres.\nDéroulement de la soirée: \n19h Introduction de l'artiste19h05 Écoute de l'album20h Discussion avec l'artiste\nLe vinyle Il n'y a pas de sud ainsi que son plus récent ouvrage Flip the Script Sounds Good seront vendus sur place.",
-      "url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "info_url": "https://librairieresonance.com/en/blogs/evenements/session-rewind-dj-poirier-il-ny-a-pas-de-sud",
-      "status": "CANCELLED",
-      "source": "librairie-resonance",
-      "category": "Poetry & Literature",
-      "missing_runs": 64
+      "missing_runs": 43
     }
   }
 }
