@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-22T02:28:24.456358-05:00",
+  "updated": "2026-11-22T14:58:38.596644-05:00",
   "events": {
-    "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
-      "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
-      "title": "Initiation aux livres numériques sur Ipad et tablettes Android",
-      "start": "2026-11-22T14:00:00-05:00",
-      "end": "2026-11-22T16:00:00-05:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/initiation-aux-livres-numeriques-sur-ipad-et-tablettes-android",
-      "info_url": "https://lepointdevente.com/billets/p8u261122001",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
       "title": "Club de lecture",
@@ -80,6 +66,20 @@
       "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/shami-comedy-and-poetry-night-a-fundraising-event-with-habib-siam-and-friends",
       "info_url": "https://www.eventbrite.com/e/shami-comedy-poetry-night-a-fundraising-event-with-habib-siam-friends-tickets-2004915666730",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
+      "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
+      "title": "Écrire un texte littéraire",
+      "start": "2026-12-05T10:15:00-05:00",
+      "end": "2026-12-05T12:15:00-05:00",
+      "venue": "Bibliothèque Maisonneuve",
+      "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
+      "info_url": "https://lepointdevente.com/billets/p8u261003001",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -155,19 +155,19 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "0b6204a217663af527ea8ac0@montreal-poetry-calendar": {
-      "source_id": "11b5b4f2-455c-4db9-8d62-4649bbb412f5",
-      "title": "Écrire un texte littéraire",
-      "start": "2026-12-05T10:15:00-05:00",
-      "end": "2026-12-05T12:15:00-05:00",
+    "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
+      "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
+      "title": "Initiation aux livres numériques sur Ipad et tablettes Android",
+      "start": "2026-11-22T14:00:00-05:00",
+      "end": "2026-11-22T16:00:00-05:00",
       "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/ecrire-un-texte-litteraire",
-      "info_url": "https://lepointdevente.com/billets/p8u261003001",
-      "status": "CANCELLED",
+      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/initiation-aux-livres-numeriques-sur-ipad-et-tablettes-android",
+      "info_url": "https://lepointdevente.com/billets/p8u261122001",
+      "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 14
+      "missing_runs": 1
     },
     "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
       "source_id": "18569b82468369d3",
@@ -195,7 +195,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 39
+      "missing_runs": 40
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -209,7 +209,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 45
+      "missing_runs": 46
     }
   }
 }
