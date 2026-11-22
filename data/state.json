@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T14:47:53.412661-05:00",
+  "updated": "2026-11-22T02:28:24.456358-05:00",
   "events": {
     "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
       "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
@@ -66,6 +66,20 @@
       "description": "Listed by Lepointdevente Montréal, Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/club-de-lecture-2026-10-02",
       "info_url": "https://lepointdevente.com/billets/ev3260904001",
+      "status": "CONFIRMED",
+      "source": "has-things",
+      "category": "Poetry & Literature",
+      "missing_runs": 0
+    },
+    "4262166b336e7196da046db1@montreal-poetry-calendar": {
+      "source_id": "1651ac60-ffa1-4cb3-83a3-bc0afdf59062",
+      "title": "Shami Comedy & Poetry Night: A Fundraising Event with Habib Siam & Friends",
+      "start": "2026-12-04T19:30:00-05:00",
+      "end": "2026-12-04T22:00:00-05:00",
+      "venue": "FineFineFine Café",
+      "description": "Listed by Eventbrite — Montréal directory. Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/shami-comedy-and-poetry-night-a-fundraising-event-with-habib-siam-and-friends",
+      "info_url": "https://www.eventbrite.com/e/shami-comedy-poetry-night-a-fundraising-event-with-habib-siam-friends-tickets-2004915666730",
       "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
@@ -153,7 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 13
+      "missing_runs": 14
     },
     "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
       "source_id": "18569b82468369d3",
@@ -181,7 +195,7 @@
       "status": "CANCELLED",
       "source": "librairie-resonance",
       "category": "Poetry & Literature",
-      "missing_runs": 38
+      "missing_runs": 39
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -195,7 +209,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 44
+      "missing_runs": 45
     }
   }
 }
