@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:23:35.303103-05:00",
+  "updated": "2026-11-24T05:26:20.162038-05:00",
   "events": {
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
@@ -150,10 +150,10 @@
       "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
       "url": "https://montreal.hasthings.com/events/creation-d-un-livre-pop-up-inscrire-les-enfants-uniquement",
       "info_url": "https://lepointdevente.com/billets/ut9261213002",
-      "status": "CONFIRMED",
+      "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 1
+      "missing_runs": 2
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -167,7 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 48
+      "missing_runs": 49
     }
   }
 }
