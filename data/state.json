@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T03:16:07.999624-05:00",
+  "updated": "2026-11-23T19:23:35.303103-05:00",
   "events": {
     "a730471d5c6057f178288eb0@montreal-poetry-calendar": {
       "source_id": "a5f51037-dde0-4b7a-a30b-466e186c13a8",
@@ -99,20 +99,6 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar": {
-      "source_id": "6b3965b0-84b9-4d60-b94e-8823af1af25a",
-      "title": "Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT",
-      "start": "2026-12-13T14:00:00-05:00",
-      "end": "2026-12-13T16:00:00-05:00",
-      "venue": "Centre Sanaaq",
-      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/creation-d-un-livre-pop-up-inscrire-les-enfants-uniquement",
-      "info_url": "https://lepointdevente.com/billets/ut9261213002",
-      "status": "CONFIRMED",
-      "source": "has-things",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
-    },
     "f4b2fe95de3d3650554ab296@montreal-poetry-calendar": {
       "source_id": "87ba6e62-ef8c-40fd-a49b-f4c233d094ce",
       "title": "Club de lecture",
@@ -155,33 +141,19 @@
       "category": "Poetry & Literature",
       "missing_runs": 0
     },
-    "8e8d30e929106268fec57eda@montreal-poetry-calendar": {
-      "source_id": "cf5af049-cb36-4b33-8d6d-fdeb566572b3",
-      "title": "Initiation aux livres numériques sur Ipad et tablettes Android",
-      "start": "2026-11-22T14:00:00-05:00",
-      "end": "2026-11-22T16:00:00-05:00",
-      "venue": "Bibliothèque Maisonneuve",
-      "description": "Listed by Lepointdevente Montréal. Data: Has Things (hasthings.com).",
-      "url": "https://montreal.hasthings.com/events/initiation-aux-livres-numeriques-sur-ipad-et-tablettes-android",
-      "info_url": "https://lepointdevente.com/billets/p8u261122001",
-      "status": "CANCELLED",
+    "0af9b05889b56a9ffe2cac6a@montreal-poetry-calendar": {
+      "source_id": "6b3965b0-84b9-4d60-b94e-8823af1af25a",
+      "title": "Création d'un livre pop-up - INSCRIRE LES ENFANTS UNIQUEMENT",
+      "start": "2026-12-13T14:00:00-05:00",
+      "end": "2026-12-13T16:00:00-05:00",
+      "venue": "Centre Sanaaq",
+      "description": "Listed by Lepointdevente Montréal (weeks 4-6). Data: Has Things (hasthings.com).",
+      "url": "https://montreal.hasthings.com/events/creation-d-un-livre-pop-up-inscrire-les-enfants-uniquement",
+      "info_url": "https://lepointdevente.com/billets/ut9261213002",
+      "status": "CONFIRMED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 2
-    },
-    "dd13822b076b0611b8619ff4@montreal-poetry-calendar": {
-      "source_id": "18569b82468369d3",
-      "title": "STORYTELLING WITH NDG AUTHORS",
-      "start": "2026-11-22T16:00:00-05:00",
-      "end": "2026-11-22T18:00:00-05:00",
-      "venue": "Librairie Phoenix (5928 rue Sherbrooke O).",
-      "description": "STORYTELLING WITH NDG AUTHORS What: Some local youths will share their stories; there will be a tea and snack-enhanced intermission, and then a small group of NDG-based adult writers will do some raconteuring. Where: Librairie Phoenix (5928 rue Sherbrooke O). When: 4 to 7pm. Who: Whoever has the balls. How Much: Free. ( Link )",
-      "url": "https://www.discordiareview.com/p/montreal-literary-events-calendar-november-2026",
-      "info_url": "https://www.librairiephoenix.com/events-1/chimera-micro-ouvert-pour-poesie-et-fiction-chimera-open-mic-2026-11-12-19-00",
-      "status": "CONFIRMED",
-      "source": "jays-list",
-      "category": "Poetry & Literature",
-      "missing_runs": 0
+      "missing_runs": 1
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -195,7 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 47
+      "missing_runs": 48
     }
   }
 }
