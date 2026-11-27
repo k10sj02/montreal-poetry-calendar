@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T16:57:17.763829-05:00",
+  "updated": "2026-11-27T04:06:15.285463-05:00",
   "events": {
     "fdc5e895a12c3d2914faa663@montreal-poetry-calendar": {
       "source_id": "9f225ce3-d121-436a-a3b9-47467bc19b0d",
@@ -153,7 +153,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 7
+      "missing_runs": 8
     },
     "12756f08bc76bae5de15d6eb@montreal-poetry-calendar": {
       "source_id": "b9aabb94-5a86-4d61-9af7-5098b623802e",
@@ -167,7 +167,7 @@
       "status": "CANCELLED",
       "source": "has-things",
       "category": "Poetry & Literature",
-      "missing_runs": 54
+      "missing_runs": 55
     }
   }
 }
